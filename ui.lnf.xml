@@ -1,0 +1,19 @@
+<application>
+  <component name="ProjectViewFileNesting">
+    <nesting-rules>
+      <NestingRule child-file-suffix=".config.dart" parent-file-suffix=".dart" />
+      <NestingRule child-file-suffix=".dart.js" parent-file-suffix=".dart" />
+      <NestingRule child-file-suffix=".dart.js.deps" parent-file-suffix=".dart" />
+      <NestingRule child-file-suffix=".dart.js.map" parent-file-suffix=".dart" />
+      <NestingRule child-file-suffix=".dart.js.tar.gz" parent-file-suffix=".dart" />
+      <NestingRule child-file-suffix=".g.dart" parent-file-suffix=".dart" />
+      <NestingRule child-file-suffix=".gr.dart" parent-file-suffix=".dart" />
+      <NestingRule child-file-suffix=".module" parent-file-suffix=".dart" />
+    </nesting-rules>
+  </component>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="100" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SEPARATE_MAIN_MENU" value="true" />
+  </component>
+</application>

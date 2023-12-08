@@ -1,0 +1,23 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1701778050199" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogHeight" value="444" />
+    <option name="newTranslationDialogWidth" value="862" />
+    <option name="newTranslationDialogX" value="794" />
+    <option name="newTranslationDialogY" value="447" />
+    <histories>
+      <item value="* Limited documentation and community support compared to other options&#10;* Might not be as flexible as other options" />
+      <item value="* Might not be as beginner-friendly as some of the other options&#10;* Might not support complex queries as well as some of the NoSQL options" />
+      <item value="The &lt;application&gt; tag should appear after the elements which declare which version you need, which features you need, which libraries you need, and so on. In the past there have been subtle bugs (such as themes not getting applied correctly) when the &lt;application&gt; tag appears before some of these other elements, so it's best to order your manifest in the logical dependency order." />
+      <item value="The lesser of the magnitudes of the width and the height" />
+      <item value="The lesser of the magnitudes of the width and the height." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="RUSSIAN" value="5" />
+      </map>
+    </option>
+  </component>
+</application>

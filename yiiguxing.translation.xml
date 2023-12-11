@@ -4,10 +4,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="860" />
+    <option name="newTranslationDialogWidth" value="858" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="smallerThan" />
       <item value="The z-coordinate at which to place this card. This controls the size of the shadow below the card.&#10;Defines the card's Material.elevation.&#10;If this property is null then CardTheme.elevation of ThemeData.cardTheme is used. If that's null, the default value is 1.0." />
       <item value="* Limited documentation and community support compared to other options&#10;* Might not be as flexible as other options" />
       <item value="* Might not be as beginner-friendly as some of the other options&#10;* Might not support complex queries as well as some of the NoSQL options" />
@@ -17,7 +18,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="RUSSIAN" value="6" />
+        <entry key="RUSSIAN" value="7" />
       </map>
     </option>
   </component>

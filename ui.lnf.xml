@@ -1,6 +1,7 @@
 <application>
   <component name="ProjectViewFileNesting">
     <nesting-rules>
+      <NestingRule child-file-suffix=".auto_mappr.dart" parent-file-suffix=".dart" />
       <NestingRule child-file-suffix=".config.dart" parent-file-suffix=".dart" />
       <NestingRule child-file-suffix=".dart.js" parent-file-suffix=".dart" />
       <NestingRule child-file-suffix=".dart.js.deps" parent-file-suffix=".dart" />
@@ -9,7 +10,6 @@
       <NestingRule child-file-suffix=".g.dart" parent-file-suffix=".dart" />
       <NestingRule child-file-suffix=".gr.dart" parent-file-suffix=".dart" />
       <NestingRule child-file-suffix=".module" parent-file-suffix=".dart" />
-      <NestingRule child-file-suffix=".styles.dart" parent-file-suffix=".dart" />
     </nesting-rules>
   </component>
   <component name="UISettings">

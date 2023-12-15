@@ -11,6 +11,7 @@
       <NestingRule child-file-suffix=".gr.dart" parent-file-suffix=".dart" />
       <NestingRule child-file-suffix=".impl.dart" parent-file-suffix=".dart" />
       <NestingRule child-file-suffix=".module" parent-file-suffix=".dart" />
+      <NestingRule child-file-suffix=".styles.dart" parent-file-suffix=".dart" />
     </nesting-rules>
   </component>
   <component name="UISettings">

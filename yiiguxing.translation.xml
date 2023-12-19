@@ -1,13 +1,14 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1702284855456" />
+    <option name="lastTrimTime" value="1702972396632" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="848" />
+    <option name="newTranslationDialogWidth" value="846" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="// you can also use the common helper methods from context extension to navigate  " />
       <item value="прогрессом" />
       <item value="в соревнованиях и следите за своим" />
       <item value="Проводите тренировки, участвуйте" />
@@ -23,7 +24,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="RUSSIAN" value="7" />
+        <entry key="RUSSIAN" value="8" />
       </map>
     </option>
   </component>

@@ -4,10 +4,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="844" />
+    <option name="newTranslationDialogWidth" value="842" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="shade" />
       <item value="Нет доступа в интернет, подключитесь к любой доступной сети" />
       <item value="// you can also use the common helper methods from context extension to navigate  " />
       <item value="прогрессом" />
@@ -25,7 +26,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="RUSSIAN" value="8" />
+        <entry key="RUSSIAN" value="9" />
       </map>
     </option>
   </component>

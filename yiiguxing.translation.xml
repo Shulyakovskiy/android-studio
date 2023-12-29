@@ -4,10 +4,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="838" />
+    <option name="newTranslationDialogWidth" value="836" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="implicit" />
+      <item value="шьздшсше" />
+      <item value="шьздш" />
       <item value="Attribute required is only used in API level 5 and higher (current min is 1" />
       <item value="shape" />
       <item value="s" />
@@ -29,7 +32,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="RUSSIAN" value="11" />
+        <entry key="RUSSIAN" value="12" />
       </map>
     </option>
   </component>

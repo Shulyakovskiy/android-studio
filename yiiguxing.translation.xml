@@ -4,10 +4,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="834" />
+    <option name="newTranslationDialogWidth" value="832" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="Expiration date must be before " />
       <item value="To remove, you don't have to close the database if you want to see the collection in the inspector" />
       <item value="implicit" />
       <item value="шьздшсше" />
@@ -33,7 +34,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="RUSSIAN" value="13" />
+        <entry key="RUSSIAN" value="14" />
       </map>
     </option>
   </component>

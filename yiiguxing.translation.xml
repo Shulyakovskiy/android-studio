@@ -1,13 +1,17 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1704855268458" />
+    <option name="lastTrimTime" value="1705477075277" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="832" />
+    <option name="newTranslationDialogWidth" value="826" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="&quot;У Вас пока нет сохраненных {}аккаунтов&quot;" />
+      <item value="  &quot;You_don't_have_any_account&quot;: &quot;У Вас пока нет сохраненных {}аккаунтов&quot;" />
+      <item value="У Вас пока нет сохраненных \nаккаунтов" />
+      <item value="Выберите аккаунт {}или создайте новый" />
       <item value="Expiration date must be before " />
       <item value="To remove, you don't have to close the database if you want to see the collection in the inspector" />
       <item value="implicit" />

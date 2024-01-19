@@ -4,10 +4,14 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="824" />
+    <option name="newTranslationDialogWidth" value="816" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="Я подтверждаю что мне есть 18 лет" />
+      <item value="Политикой конфиденциальности и Политикой соглашения" />
+      <item value="Нажимая продолжить, я соглашаюсь с" />
+      <item value="Поле обязательно для заполнения" />
       <item value="The ObservableList tracks the various read-methods (eg: List.first, List.last) and write-methods (eg: List.add, List.insert) making it easier to use it inside reactions.&#10;As the name suggests, this is the Observable-counterpart to the standard Dart" />
       <item value="&quot;У Вас пока нет сохраненных {}аккаунтов&quot;" />
       <item value="  &quot;You_don't_have_any_account&quot;: &quot;У Вас пока нет сохраненных {}аккаунтов&quot;" />

@@ -1,13 +1,14 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1705477075277" />
+    <option name="lastTrimTime" value="1705930059551" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="814" />
+    <option name="newTranslationDialogWidth" value="812" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="Подтверждения профиля" />
       <item value="The type of action button to use for the keyboard.&#10;Defaults to TextInputAction.newline if keyboardType is TextInputType.multiline and TextInputAction.done otherwise" />
       <item value="Я подтверждаю что мне есть 18 лет" />
       <item value="Политикой конфиденциальности и Политикой соглашения" />

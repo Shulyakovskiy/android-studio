@@ -1,0 +1,8 @@
+<templateSet group="Flutter">
+  <template name="store" value="import 'package:injectable/injectable.dart';&#10;import 'package:mobx/mobx.dart';&#10;&#10;&#10;part '$NAME$.controller.g.dart';&#10;&#10;@lazySingleton&#10;class $NAME$Controller = $NAME$ControllerBase with _$$$NAME$Controller;&#10;&#10;abstract class $NAME$ControllerBase with Store {&#10;  $NAME$ControllerBase();&#10; }" description="MoBX store" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>

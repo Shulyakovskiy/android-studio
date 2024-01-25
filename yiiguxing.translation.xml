@@ -4,10 +4,27 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="808" />
-    <option name="newTranslationDialogX" value="1103" />
-    <option name="newTranslationDialogY" value="373" />
+    <option name="newTranslationDialogWidth" value="784" />
+    <option name="newTranslationDialogX" value="1124" />
+    <option name="newTranslationDialogY" value="496" />
     <histories>
+      <item value="Возраст должен быть больше 18 лет" />
+      <item value="проверка 18 лет" />
+      <item value="проверка 18 " />
+      <item value="проверка 1" />
+      <item value="ghjdthrf 18 kt" />
+      <item value="ghjdthrf 18 ktn" />
+      <item value="Отчество" />
+      <item value="Имя" />
+      <item value="Длина не больше" />
+      <item value="Длина не меньше" />
+      <item value="не больше" />
+      <item value="yt" />
+      <item value="Фамилия" />
+      <item value="Расскажите о себе — это поможет легче находить вас в статистике с другими участниками" />
+      <item value="расскажите о себе" />
+      <item value="Заполните данные" />
+      <item value="Город или регион" />
       <item value="Не указан номер телефона для регистрации" />
       <item value="The connection errored: Connection refused This indicates an error which most likely cannot be solved by the library" />
       <item value="Подтверждения профиля" />
@@ -41,9 +58,6 @@
       <item value="The z-coordinate at which to place this card. This controls the size of the shadow below the card.&#10;Defines the card's Material.elevation.&#10;If this property is null then CardTheme.elevation of ThemeData.cardTheme is used. If that's null, the default value is 1.0." />
       <item value="* Limited documentation and community support compared to other options&#10;* Might not be as flexible as other options" />
       <item value="* Might not be as beginner-friendly as some of the other options&#10;* Might not support complex queries as well as some of the NoSQL options" />
-      <item value="The &lt;application&gt; tag should appear after the elements which declare which version you need, which features you need, which libraries you need, and so on. In the past there have been subtle bugs (such as themes not getting applied correctly) when the &lt;application&gt; tag appears before some of these other elements, so it's best to order your manifest in the logical dependency order." />
-      <item value="The lesser of the magnitudes of the width and the height" />
-      <item value="The lesser of the magnitudes of the width and the height." />
     </histories>
     <option name="languageScores">
       <map>

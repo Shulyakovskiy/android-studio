@@ -4,10 +4,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="810" />
+    <option name="newTranslationDialogWidth" value="808" />
     <option name="newTranslationDialogX" value="1103" />
     <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="Не указан номер телефона для регистрации" />
       <item value="The connection errored: Connection refused This indicates an error which most likely cannot be solved by the library" />
       <item value="Подтверждения профиля" />
       <item value="The type of action button to use for the keyboard.&#10;Defaults to TextInputAction.newline if keyboardType is TextInputType.multiline and TextInputAction.done otherwise" />

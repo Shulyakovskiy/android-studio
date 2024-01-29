@@ -4,10 +4,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="772" />
+    <option name="newTranslationDialogWidth" value="770" />
     <option name="newTranslationDialogX" value="1124" />
     <option name="newTranslationDialogY" value="496" />
     <histories>
+      <item value="Check that a text password matches a previously hashed one.&#10;Returns true if the passwords match, false otherwise." />
       <item value="Повторить звонок" />
       <item value="Звонок отправлен" />
       <item value="Пин-код не верен" />
@@ -57,11 +58,10 @@
       <item value="Нет доступа в интернет, подключитесь к любой доступной сети" />
       <item value="// you can also use the common helper methods from context extension to navigate  " />
       <item value="прогрессом" />
-      <item value="в соревнованиях и следите за своим" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="RUSSIAN" value="17" />
+        <entry key="RUSSIAN" value="18" />
       </map>
     </option>
   </component>

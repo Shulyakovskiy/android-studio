@@ -4,10 +4,17 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="770" />
+    <option name="newTranslationDialogWidth" value="754" />
     <option name="newTranslationDialogX" value="1124" />
     <option name="newTranslationDialogY" value="496" />
     <histories>
+      <item value="Забыли код-пароль" />
+      <item value="Забыли код-парол" />
+      <item value="Вход" />
+      <item value="Коды не совпадают" />
+      <item value="Пин-пароль установлен" />
+      <item value="Введите код-пароль" />
+      <item value="Установите код-пароль" />
       <item value="Check that a text password matches a previously hashed one.&#10;Returns true if the passwords match, false otherwise." />
       <item value="Повторить звонок" />
       <item value="Звонок отправлен" />
@@ -51,13 +58,6 @@
       <item value="implicit" />
       <item value="шьздшсше" />
       <item value="шьздш" />
-      <item value="Attribute required is only used in API level 5 and higher (current min is 1" />
-      <item value="shape" />
-      <item value="s" />
-      <item value="shade" />
-      <item value="Нет доступа в интернет, подключитесь к любой доступной сети" />
-      <item value="// you can also use the common helper methods from context extension to navigate  " />
-      <item value="прогрессом" />
     </histories>
     <option name="languageScores">
       <map>

@@ -1,13 +1,20 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1705930059551" />
+    <option name="lastTrimTime" value="1706514867435" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="784" />
+    <option name="newTranslationDialogWidth" value="772" />
     <option name="newTranslationDialogX" value="1124" />
     <option name="newTranslationDialogY" value="496" />
     <histories>
+      <item value="Повторить звонок" />
+      <item value="Звонок отправлен" />
+      <item value="Пин-код не верен" />
+      <item value="поступит звонок, {}ввведите последние 4 цифры номера вызов" />
+      <item value="поступит звонок, {}nввведите последние 4 цифры номера вызов" />
+      <item value="На номер телефона" />
+      <item value="Подтверждение телефона" />
       <item value="Возраст должен быть больше 18 лет" />
       <item value="проверка 18 лет" />
       <item value="проверка 18 " />
@@ -51,13 +58,6 @@
       <item value="// you can also use the common helper methods from context extension to navigate  " />
       <item value="прогрессом" />
       <item value="в соревнованиях и следите за своим" />
-      <item value="Проводите тренировки, участвуйте" />
-      <item value="в «Секундант»" />
-      <item value="Добро пожаловать" />
-      <item value="smallerThan" />
-      <item value="The z-coordinate at which to place this card. This controls the size of the shadow below the card.&#10;Defines the card's Material.elevation.&#10;If this property is null then CardTheme.elevation of ThemeData.cardTheme is used. If that's null, the default value is 1.0." />
-      <item value="* Limited documentation and community support compared to other options&#10;* Might not be as flexible as other options" />
-      <item value="* Might not be as beginner-friendly as some of the other options&#10;* Might not support complex queries as well as some of the NoSQL options" />
     </histories>
     <option name="languageScores">
       <map>

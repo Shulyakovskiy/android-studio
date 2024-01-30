@@ -4,10 +4,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="754" />
+    <option name="newTranslationDialogWidth" value="750" />
     <option name="newTranslationDialogX" value="1124" />
     <option name="newTranslationDialogY" value="496" />
     <histories>
+      <item value="верно" />
+      <item value="dthyj" />
+      <item value="Все верно" />
       <item value="Забыли код-пароль" />
       <item value="Забыли код-парол" />
       <item value="Вход" />
@@ -55,9 +58,6 @@
       <item value="Выберите аккаунт {}или создайте новый" />
       <item value="Expiration date must be before " />
       <item value="To remove, you don't have to close the database if you want to see the collection in the inspector" />
-      <item value="implicit" />
-      <item value="шьздшсше" />
-      <item value="шьздш" />
     </histories>
     <option name="languageScores">
       <map>

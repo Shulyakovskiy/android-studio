@@ -1,13 +1,14 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1706514867435" />
+    <option name="lastTrimTime" value="1707215182259" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="746" />
+    <option name="newTranslationDialogWidth" value="744" />
     <option name="newTranslationDialogX" value="1124" />
     <option name="newTranslationDialogY" value="496" />
     <histories>
+      <item value="  /// Retrieve a list of devices currently connected to the system&#10;  /// - The list includes devices connected to by *any* app&#10;  /// - You must still call device.connect() to connect them to *your app*" />
       <item value="Constructors of embedded objects must not have required parameters." />
       <item value="The default value of an optional parameter must be constant" />
       <item value="верно" />
@@ -57,11 +58,10 @@
       <item value="&quot;У Вас пока нет сохраненных {}аккаунтов&quot;" />
       <item value="  &quot;You_don't_have_any_account&quot;: &quot;У Вас пока нет сохраненных {}аккаунтов&quot;" />
       <item value="У Вас пока нет сохраненных \nаккаунтов" />
-      <item value="Выберите аккаунт {}или создайте новый" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="RUSSIAN" value="20" />
+        <entry key="RUSSIAN" value="21" />
       </map>
     </option>
   </component>

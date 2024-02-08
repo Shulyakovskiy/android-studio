@@ -4,10 +4,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="744" />
+    <option name="newTranslationDialogWidth" value="742" />
     <option name="newTranslationDialogX" value="1124" />
     <option name="newTranslationDialogY" value="496" />
     <histories>
+      <item value="Try importing a public library that exports this library, or removing the import." />
       <item value="  /// Retrieve a list of devices currently connected to the system&#10;  /// - The list includes devices connected to by *any* app&#10;  /// - You must still call device.connect() to connect them to *your app*" />
       <item value="Constructors of embedded objects must not have required parameters." />
       <item value="The default value of an optional parameter must be constant" />
@@ -57,11 +58,10 @@
       <item value="The ObservableList tracks the various read-methods (eg: List.first, List.last) and write-methods (eg: List.add, List.insert) making it easier to use it inside reactions.&#10;As the name suggests, this is the Observable-counterpart to the standard Dart" />
       <item value="&quot;У Вас пока нет сохраненных {}аккаунтов&quot;" />
       <item value="  &quot;You_don't_have_any_account&quot;: &quot;У Вас пока нет сохраненных {}аккаунтов&quot;" />
-      <item value="У Вас пока нет сохраненных \nаккаунтов" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="RUSSIAN" value="21" />
+        <entry key="RUSSIAN" value="22" />
       </map>
     </option>
   </component>

@@ -1,13 +1,15 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1707215182259" />
+    <option name="lastTrimTime" value="1707809186080" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="740" />
-    <option name="newTranslationDialogX" value="1124" />
-    <option name="newTranslationDialogY" value="496" />
+    <option name="newTranslationDialogWidth" value="1092" />
+    <option name="newTranslationDialogX" value="419" />
+    <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="We can then subclass ConsumerWidget to listen to helloWorldProvider like so:&#10;class Example extends ConsumerWidget {&#10;  const Example({Key? key}): super(key: key);&#10;&#10;  @override&#10;  Widget build(BuildContext context, WidgetRef ref) {&#10;    final value = ref.watch(helloWorldProvider);&#10;    return Text(value); // Hello world&#10;  }&#10;}&#10;Note You can watch as many providers inside build as you want to:&#10;@override&#10;Widget build(BuildContext context, WidgetRef ref) {&#10;  final value = ref.watch(someProvider);&#10;  final another = ref.watch(anotherProvider);&#10;  return Text(value); // Hello world&#10;}&#10;For reading providers inside a StatefulWidget or for performance optimizations, see Consumer. {@endtemplate}" />
+      <item value="Using ConsumerWidget, this allows the widget tree to listen to changes on provider, so that the UI automatically updates when needed.&#10;Do not modify any state or start any http request inside build.&#10;As a usage example, consider:" />
       <item value="target" />
       <item value="Try importing a public library that exports this library, or removing the import." />
       <item value="  /// Retrieve a list of devices currently connected to the system&#10;  /// - The list includes devices connected to by *any* app&#10;  /// - You must still call device.connect() to connect them to *your app*" />
@@ -56,12 +58,10 @@
       <item value="Политикой конфиденциальности и Политикой соглашения" />
       <item value="Нажимая продолжить, я соглашаюсь с" />
       <item value="Поле обязательно для заполнения" />
-      <item value="The ObservableList tracks the various read-methods (eg: List.first, List.last) and write-methods (eg: List.add, List.insert) making it easier to use it inside reactions.&#10;As the name suggests, this is the Observable-counterpart to the standard Dart" />
-      <item value="&quot;У Вас пока нет сохраненных {}аккаунтов&quot;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="RUSSIAN" value="23" />
+        <entry key="RUSSIAN" value="25" />
       </map>
     </option>
   </component>

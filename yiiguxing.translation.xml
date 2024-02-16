@@ -4,10 +4,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1092" />
+    <option name="newTranslationDialogWidth" value="1090" />
     <option name="newTranslationDialogX" value="419" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="set to `true` to use the HTTP `GET` method for queries (but not for mutations)" />
       <item value="We can then subclass ConsumerWidget to listen to helloWorldProvider like so:&#10;class Example extends ConsumerWidget {&#10;  const Example({Key? key}): super(key: key);&#10;&#10;  @override&#10;  Widget build(BuildContext context, WidgetRef ref) {&#10;    final value = ref.watch(helloWorldProvider);&#10;    return Text(value); // Hello world&#10;  }&#10;}&#10;Note You can watch as many providers inside build as you want to:&#10;@override&#10;Widget build(BuildContext context, WidgetRef ref) {&#10;  final value = ref.watch(someProvider);&#10;  final another = ref.watch(anotherProvider);&#10;  return Text(value); // Hello world&#10;}&#10;For reading providers inside a StatefulWidget or for performance optimizations, see Consumer. {@endtemplate}" />
       <item value="Using ConsumerWidget, this allows the widget tree to listen to changes on provider, so that the UI automatically updates when needed.&#10;Do not modify any state or start any http request inside build.&#10;As a usage example, consider:" />
       <item value="target" />
@@ -57,11 +58,10 @@
       <item value="Я подтверждаю что мне есть 18 лет" />
       <item value="Политикой конфиденциальности и Политикой соглашения" />
       <item value="Нажимая продолжить, я соглашаюсь с" />
-      <item value="Поле обязательно для заполнения" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="RUSSIAN" value="25" />
+        <entry key="RUSSIAN" value="26" />
       </map>
     </option>
   </component>

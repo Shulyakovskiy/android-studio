@@ -4,10 +4,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1078" />
+    <option name="newTranslationDialogWidth" value="1076" />
     <option name="newTranslationDialogX" value="419" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Подождите" />
       <item value="Не помню" />
       <item value="Введите номер телефона" />
       <item value="У Вас еще нет аккаунтов" />
@@ -57,7 +58,6 @@
       <item value="расскажите о себе" />
       <item value="Заполните данные" />
       <item value="Город или регион" />
-      <item value="Не указан номер телефона для регистрации" />
     </histories>
     <option name="languageScores">
       <map>

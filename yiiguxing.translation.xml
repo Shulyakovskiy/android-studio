@@ -4,10 +4,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1082" />
+    <option name="newTranslationDialogWidth" value="1080" />
     <option name="newTranslationDialogX" value="419" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Введите номер телефона" />
       <item value="У Вас еще нет аккаунтов" />
       <item value="У Вас пока нет сохраненных {}аккаунтов.{}Для доступа в приложение создайте{}новый аккаунт." />
       <item value="заглушка" />
@@ -57,7 +58,6 @@
       <item value="Город или регион" />
       <item value="Не указан номер телефона для регистрации" />
       <item value="The connection errored: Connection refused This indicates an error which most likely cannot be solved by the library" />
-      <item value="Подтверждения профиля" />
     </histories>
     <option name="languageScores">
       <map>

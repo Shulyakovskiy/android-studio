@@ -4,10 +4,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1076" />
+    <option name="newTranslationDialogWidth" value="1072" />
     <option name="newTranslationDialogX" value="419" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Повторите код-пароль" />
+      <item value="Новый код-пароль" />
+      <item value="Новый ко-пароль" />
       <item value="Подождите" />
       <item value="Не помню" />
       <item value="Введите номер телефона" />
@@ -55,9 +58,6 @@
       <item value="yt" />
       <item value="Фамилия" />
       <item value="Расскажите о себе — это поможет легче находить вас в статистике с другими участниками" />
-      <item value="расскажите о себе" />
-      <item value="Заполните данные" />
-      <item value="Город или регион" />
     </histories>
     <option name="languageScores">
       <map>

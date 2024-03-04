@@ -4,10 +4,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1068" />
+    <option name="newTranslationDialogWidth" value="1064" />
     <option name="newTranslationDialogX" value="419" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Восстановить код-пароль" />
+      <item value="Создание аккаунта" />
       <item value="В международном формате" />
       <item value="цифры входящего номера" />
       <item value="Повторите код-пароль" />
@@ -56,8 +58,6 @@
       <item value="Имя" />
       <item value="Длина не больше" />
       <item value="Длина не меньше" />
-      <item value="не больше" />
-      <item value="yt" />
     </histories>
     <option name="languageScores">
       <map>

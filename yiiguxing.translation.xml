@@ -1,13 +1,14 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1708950965927" />
+    <option name="lastTrimTime" value="1709534589924" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1072" />
+    <option name="newTranslationDialogWidth" value="1070" />
     <option name="newTranslationDialogX" value="419" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="цифры входящего номера" />
       <item value="Повторите код-пароль" />
       <item value="Новый код-пароль" />
       <item value="Новый ко-пароль" />
@@ -57,7 +58,6 @@
       <item value="не больше" />
       <item value="yt" />
       <item value="Фамилия" />
-      <item value="Расскажите о себе — это поможет легче находить вас в статистике с другими участниками" />
     </histories>
     <option name="languageScores">
       <map>

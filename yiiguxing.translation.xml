@@ -4,10 +4,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1064" />
+    <option name="newTranslationDialogWidth" value="1062" />
     <option name="newTranslationDialogX" value="419" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Повторный звонок через" />
       <item value="Восстановить код-пароль" />
       <item value="Создание аккаунта" />
       <item value="В международном формате" />
@@ -57,7 +58,6 @@
       <item value="Отчество" />
       <item value="Имя" />
       <item value="Длина не больше" />
-      <item value="Длина не меньше" />
     </histories>
     <option name="languageScores">
       <map>

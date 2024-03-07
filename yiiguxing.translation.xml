@@ -4,10 +4,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1058" />
+    <option name="newTranslationDialogWidth" value="1056" />
     <option name="newTranslationDialogX" value="419" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Сервер недоступен, попробуйте позже" />
       <item value="A SnackBar with behavior property set to SnackBarBehavior.floating is fully or partially off screen because some or all the widgets provided to Scaffold.floatingActionButton, Scaffold.persistentFooterButtons and Scaffold.bottomNavigationBar take up too much vertical space." />
       <item value="Повторный звонок" />
       <item value="Повторный звонок через" />
@@ -57,7 +58,6 @@
       <item value="проверка 1" />
       <item value="ghjdthrf 18 kt" />
       <item value="ghjdthrf 18 ktn" />
-      <item value="Отчество" />
     </histories>
     <option name="languageScores">
       <map>

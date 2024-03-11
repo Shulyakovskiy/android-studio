@@ -1,13 +1,14 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1709534589924" />
+    <option name="lastTrimTime" value="1710158773226" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1056" />
+    <option name="newTranslationDialogWidth" value="1054" />
     <option name="newTranslationDialogX" value="419" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="✗ Failed to build: Flutter assets will be downloaded from https://download.shorebird.dev. Make sure you trust this source!&#10;Note: path is pinned to version 1.8.3 by flutter_test from the flutter SDK.&#10;See https://dart.dev/go/sdk-version-pinning for details.&#10;&#10;&#10;Because every version of flutter_test from sdk depends on path 1.8.3 and secundant depends on path ^1.9.0, flutter_test from sdk is forbidden.&#10;So, because secundant depends on flutter_test from sdk, version solving failed.&#10;" />
       <item value="Сервер недоступен, попробуйте позже" />
       <item value="A SnackBar with behavior property set to SnackBarBehavior.floating is fully or partially off screen because some or all the widgets provided to Scaffold.floatingActionButton, Scaffold.persistentFooterButtons and Scaffold.bottomNavigationBar take up too much vertical space." />
       <item value="Повторный звонок" />
@@ -57,11 +58,10 @@
       <item value="проверка 18 " />
       <item value="проверка 1" />
       <item value="ghjdthrf 18 kt" />
-      <item value="ghjdthrf 18 ktn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="RUSSIAN" value="28" />
+        <entry key="RUSSIAN" value="29" />
       </map>
     </option>
   </component>

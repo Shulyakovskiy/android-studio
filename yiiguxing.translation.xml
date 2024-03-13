@@ -4,10 +4,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1052" />
+    <option name="newTranslationDialogWidth" value="1050" />
     <option name="newTranslationDialogX" value="419" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Can you tell me what's results you get from the wakelock plugins" />
       <item value="Remove the whole current pages stack and push all given routes&#10;if onFailure callback is provided, navigation errors will be passed to it otherwise they'll be thrown&#10;if updateExistingRoutes is set to false a fresh stack will be initiated." />
       <item value="✗ Failed to build: Flutter assets will be downloaded from https://download.shorebird.dev. Make sure you trust this source!&#10;Note: path is pinned to version 1.8.3 by flutter_test from the flutter SDK.&#10;See https://dart.dev/go/sdk-version-pinning for details.&#10;&#10;&#10;Because every version of flutter_test from sdk depends on path 1.8.3 and secundant depends on path ^1.9.0, flutter_test from sdk is forbidden.&#10;So, because secundant depends on flutter_test from sdk, version solving failed.&#10;" />
       <item value="Сервер недоступен, попробуйте позже" />
@@ -57,11 +58,10 @@
       <item value="Возраст должен быть больше 18 лет" />
       <item value="проверка 18 лет" />
       <item value="проверка 18 " />
-      <item value="проверка 1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="RUSSIAN" value="30" />
+        <entry key="RUSSIAN" value="31" />
       </map>
     </option>
   </component>

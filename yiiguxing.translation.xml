@@ -4,10 +4,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1046" />
+    <option name="newTranslationDialogWidth" value="1044" />
     <option name="newTranslationDialogX" value="419" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Copy a compacted version of the database to the specified file.&#10;If you want to backup your database, you should always use a compacted version. Compacted does not mean compressed.&#10;Do not run this method while other transactions are active to avoid unnecessary growth of the database" />
       <item value="светлый" />
       <item value="cdtnksq" />
       <item value="rfкавычки" />
@@ -57,11 +58,10 @@
       <item value="Пин-код не верен" />
       <item value="поступит звонок, {}ввведите последние 4 цифры номера вызов" />
       <item value="поступит звонок, {}nввведите последние 4 цифры номера вызов" />
-      <item value="На номер телефона" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="RUSSIAN" value="31" />
+        <entry key="RUSSIAN" value="32" />
       </map>
     </option>
   </component>

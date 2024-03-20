@@ -5,10 +5,11 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1018" />
+    <option name="newTranslationDialogWidth" value="1016" />
     <option name="newTranslationDialogX" value="419" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="В списке устройств подключитесь к {}беспроводному шлюзу с тем же номером" />
       <item value="Понятно, к подключению" />
       <item value="onwards" />
       <item value="Далее" />
@@ -58,7 +59,6 @@
       <item value="Try importing a public library that exports this library, or removing the import." />
       <item value="  /// Retrieve a list of devices currently connected to the system&#10;  /// - The list includes devices connected to by *any* app&#10;  /// - You must still call device.connect() to connect them to *your app*" />
       <item value="Constructors of embedded objects must not have required parameters." />
-      <item value="The default value of an optional parameter must be constant" />
     </histories>
     <option name="languageScores">
       <map>

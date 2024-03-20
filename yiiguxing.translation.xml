@@ -4,10 +4,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1030" />
+    <option name="newTranslationDialogWidth" value="1024" />
     <option name="newTranslationDialogX" value="419" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Найдите серийный номер на обратной {}стороне беспроводного шлюза Секундант" />
+      <item value="Подключение {}к шлюзу Секундант" />
+      <item value="челка" />
       <item value="шлюз" />
       <item value="ik.p" />
       <item value="ik." />
@@ -55,9 +58,6 @@
       <item value="Все верно" />
       <item value="Забыли код-пароль" />
       <item value="Забыли код-парол" />
-      <item value="Вход" />
-      <item value="Коды не совпадают" />
-      <item value="Пин-пароль установлен" />
     </histories>
     <option name="languageScores">
       <map>

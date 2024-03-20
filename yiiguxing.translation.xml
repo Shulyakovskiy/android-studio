@@ -3,11 +3,17 @@
     <option name="lastTrimTime" value="1710839361186" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1024" />
+    <option name="newTranslationDialogWidth" value="1018" />
     <option name="newTranslationDialogX" value="419" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Понятно, к подключению" />
+      <item value="onwards" />
+      <item value="Далее" />
+      <item value="далее" />
+      <item value="lfktt" />
       <item value="Найдите серийный номер на обратной {}стороне беспроводного шлюза Секундант" />
       <item value="Подключение {}к шлюзу Секундант" />
       <item value="челка" />
@@ -53,15 +59,11 @@
       <item value="  /// Retrieve a list of devices currently connected to the system&#10;  /// - The list includes devices connected to by *any* app&#10;  /// - You must still call device.connect() to connect them to *your app*" />
       <item value="Constructors of embedded objects must not have required parameters." />
       <item value="The default value of an optional parameter must be constant" />
-      <item value="верно" />
-      <item value="dthyj" />
-      <item value="Все верно" />
-      <item value="Забыли код-пароль" />
-      <item value="Забыли код-парол" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="RUSSIAN" value="34" />
+        <entry key="ENGLISH" value="2" />
+        <entry key="RUSSIAN" value="36" />
       </map>
     </option>
   </component>

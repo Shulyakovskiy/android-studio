@@ -4,10 +4,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1034" />
+    <option name="newTranslationDialogWidth" value="1030" />
     <option name="newTranslationDialogX" value="419" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="шлюз" />
+      <item value="ik.p" />
+      <item value="ik." />
       <item value="подключено" />
       <item value="из" />
       <item value="training" />
@@ -55,9 +58,6 @@
       <item value="Вход" />
       <item value="Коды не совпадают" />
       <item value="Пин-пароль установлен" />
-      <item value="Введите код-пароль" />
-      <item value="Установите код-пароль" />
-      <item value="Check that a text password matches a previously hashed one.&#10;Returns true if the passwords match, false otherwise." />
     </histories>
     <option name="languageScores">
       <map>

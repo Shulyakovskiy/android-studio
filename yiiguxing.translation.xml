@@ -4,10 +4,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1038" />
+    <option name="newTranslationDialogWidth" value="1034" />
     <option name="newTranslationDialogX" value="419" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="подключено" />
+      <item value="из" />
       <item value="training" />
       <item value="Тренировки" />
       <item value="│ The following fields are unspecified in both TextStyles:&#10;[        ] I/flutter (13614): │ &quot;backgroundColor&quot;, &quot;wordSpacing&quot;, &quot;height&quot;, &quot;decorationColor&quot;, &quot;decorationThickness&quot;.&#10;[        ] I/flutter (13614): │ When &quot;inherit&quot; changes during the transition, these fields may observe abrupt value changes as a result, causing &quot;jump&quot;s in the transition.&#10;[   +3 ms] I/flutter (13614): │ &#10;[        ] I/flutter (13614): │ In general, TextStyle.lerp only works well when both TextStyles have the same &quot;inherit&quot; value, and specify the same fields.&#10;[        ] I/flutter (13614): │ If the TextStyles were directly created by you, consider bringing them to parity to ensure a smooth transition." />
@@ -56,8 +58,6 @@
       <item value="Введите код-пароль" />
       <item value="Установите код-пароль" />
       <item value="Check that a text password matches a previously hashed one.&#10;Returns true if the passwords match, false otherwise." />
-      <item value="Повторить звонок" />
-      <item value="Звонок отправлен" />
     </histories>
     <option name="languageScores">
       <map>

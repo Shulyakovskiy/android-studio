@@ -5,10 +5,11 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1010" />
+    <option name="newTranslationDialogWidth" value="1008" />
     <option name="newTranslationDialogX" value="640" />
     <option name="newTranslationDialogY" value="271" />
     <histories>
+      <item value=" There is no migration supplied to update the database to the current version. Aborting the migration. during open, closing..." />
       <item value="Annotation must be either a const variable reference or const constructor invocation" />
       <item value="You are already using the newest resolvable versions listed in the 'Resolvable' column.&#10;Newer versions, listed in 'Latest', may not be mutually compatible." />
       <item value="завершить" />
@@ -58,12 +59,11 @@
       <item value="заглушка" />
       <item value="Adds a SlideEffect that moves the target vertically based on a fraction of its size per the specified begin and end values (via SlideTransition)" />
       <item value="set to `true` to use the HTTP `GET` method for queries (but not for mutations)" />
-      <item value="We can then subclass ConsumerWidget to listen to helloWorldProvider like so:&#10;class Example extends ConsumerWidget {&#10;  const Example({Key? key}): super(key: key);&#10;&#10;  @override&#10;  Widget build(BuildContext context, WidgetRef ref) {&#10;    final value = ref.watch(helloWorldProvider);&#10;    return Text(value); // Hello world&#10;  }&#10;}&#10;Note You can watch as many providers inside build as you want to:&#10;@override&#10;Widget build(BuildContext context, WidgetRef ref) {&#10;  final value = ref.watch(someProvider);&#10;  final another = ref.watch(anotherProvider);&#10;  return Text(value); // Hello world&#10;}&#10;For reading providers inside a StatefulWidget or for performance optimizations, see Consumer. {@endtemplate}" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="2" />
-        <entry key="RUSSIAN" value="38" />
+        <entry key="RUSSIAN" value="39" />
       </map>
     </option>
   </component>

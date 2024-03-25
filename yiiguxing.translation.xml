@@ -1,14 +1,17 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1710839361186" />
+    <option name="lastTrimTime" value="1711358930615" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="1008" />
-    <option name="newTranslationDialogX" value="640" />
-    <option name="newTranslationDialogY" value="271" />
+    <option name="translationDialogHeight" value="260" />
+    <option name="translationDialogLocationX" value="794" />
+    <option name="translationDialogLocationY" value="447" />
+    <option name="translationDialogWidth" value="592" />
     <histories>
+      <item value="Bluetooth выключен {}Включите сервис, что бы использовать шлюзы {}и мишени Секундант" />
+      <item value="Bluetooth этого устройства выключен {}Включите его, что бы использовать шлюзы {}и мишени Секундант" />
+      <item value="Поиск устройств {}Секундант" />
+      <item value="Завершить" />
       <item value=" There is no migration supplied to update the database to the current version. Aborting the migration. during open, closing..." />
       <item value="Annotation must be either a const variable reference or const constructor invocation" />
       <item value="You are already using the newest resolvable versions listed in the 'Resolvable' column.&#10;Newer versions, listed in 'Latest', may not be mutually compatible." />
@@ -55,10 +58,6 @@
       <item value="Не помню" />
       <item value="Введите номер телефона" />
       <item value="У Вас еще нет аккаунтов" />
-      <item value="У Вас пока нет сохраненных {}аккаунтов.{}Для доступа в приложение создайте{}новый аккаунт." />
-      <item value="заглушка" />
-      <item value="Adds a SlideEffect that moves the target vertically based on a fraction of its size per the specified begin and end values (via SlideTransition)" />
-      <item value="set to `true` to use the HTTP `GET` method for queries (but not for mutations)" />
     </histories>
     <option name="languageScores">
       <map>

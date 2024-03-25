@@ -6,8 +6,14 @@
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="794" />
     <option name="translationDialogLocationY" value="447" />
-    <option name="translationDialogWidth" value="588" />
+    <option name="translationDialogWidth" value="578" />
     <histories>
+      <item value="Включить Bluetooth" />
+      <item value="Поиск шлюзов рядом с Вами" />
+      <item value="рядом" />
+      <item value="hzljv" />
+      <item value="Bluetooth не поддерживается в данном устройстве" />
+      <item value="              // first, check if bluetooth is supported by your hardware&#10;              // Note: The platform is initialized on the first call to any FlutterBluePlus method." />
       <item value="cancel to prevent duplicate listeners" />
       <item value="три" />
       <item value="nhb" />
@@ -52,17 +58,11 @@
       <item value="Повторный звонок через" />
       <item value="Восстановить код-пароль" />
       <item value="Создание аккаунта" />
-      <item value="В международном формате" />
-      <item value="цифры входящего номера" />
-      <item value="Повторите код-пароль" />
-      <item value="Новый код-пароль" />
-      <item value="Новый ко-пароль" />
-      <item value="Подождите" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="2" />
-        <entry key="RUSSIAN" value="40" />
+        <entry key="RUSSIAN" value="41" />
       </map>
     </option>
   </component>

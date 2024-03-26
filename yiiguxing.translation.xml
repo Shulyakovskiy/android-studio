@@ -6,8 +6,11 @@
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="794" />
     <option name="translationDialogLocationY" value="447" />
-    <option name="translationDialogWidth" value="578" />
+    <option name="translationDialogWidth" value="572" />
     <histories>
+      <item value="Не в сети" />
+      <item value="{} из {} мишеней подключено" />
+      <item value="Подключен" />
       <item value="Включить Bluetooth" />
       <item value="Поиск шлюзов рядом с Вами" />
       <item value="рядом" />
@@ -55,9 +58,6 @@
       <item value="Сервер недоступен, попробуйте позже" />
       <item value="A SnackBar with behavior property set to SnackBarBehavior.floating is fully or partially off screen because some or all the widgets provided to Scaffold.floatingActionButton, Scaffold.persistentFooterButtons and Scaffold.bottomNavigationBar take up too much vertical space." />
       <item value="Повторный звонок" />
-      <item value="Повторный звонок через" />
-      <item value="Восстановить код-пароль" />
-      <item value="Создание аккаунта" />
     </histories>
     <option name="languageScores">
       <map>

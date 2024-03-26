@@ -6,8 +6,11 @@
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="794" />
     <option name="translationDialogLocationY" value="447" />
-    <option name="translationDialogWidth" value="572" />
+    <option name="translationDialogWidth" value="570" />
     <histories>
+      <item value="тип устройства" />
+      <item value="nbg" />
+      <item value="form factor" />
       <item value="Не в сети" />
       <item value="{} из {} мишеней подключено" />
       <item value="Подключен" />
@@ -55,14 +58,11 @@
       <item value="Can you tell me what's results you get from the wakelock plugins" />
       <item value="Remove the whole current pages stack and push all given routes&#10;if onFailure callback is provided, navigation errors will be passed to it otherwise they'll be thrown&#10;if updateExistingRoutes is set to false a fresh stack will be initiated." />
       <item value="✗ Failed to build: Flutter assets will be downloaded from https://download.shorebird.dev. Make sure you trust this source!&#10;Note: path is pinned to version 1.8.3 by flutter_test from the flutter SDK.&#10;See https://dart.dev/go/sdk-version-pinning for details.&#10;&#10;&#10;Because every version of flutter_test from sdk depends on path 1.8.3 and secundant depends on path ^1.9.0, flutter_test from sdk is forbidden.&#10;So, because secundant depends on flutter_test from sdk, version solving failed.&#10;" />
-      <item value="Сервер недоступен, попробуйте позже" />
-      <item value="A SnackBar with behavior property set to SnackBarBehavior.floating is fully or partially off screen because some or all the widgets provided to Scaffold.floatingActionButton, Scaffold.persistentFooterButtons and Scaffold.bottomNavigationBar take up too much vertical space." />
-      <item value="Повторный звонок" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="2" />
-        <entry key="RUSSIAN" value="41" />
+        <entry key="ENGLISH" value="3" />
+        <entry key="RUSSIAN" value="42" />
       </map>
     </option>
   </component>

@@ -3,11 +3,13 @@
     <option name="lastTrimTime" value="1711358930615" />
   </component>
   <component name="Translation.States">
-    <option name="translationDialogHeight" value="260" />
+    <option name="translationDialogHeight" value="379" />
     <option name="translationDialogLocationX" value="794" />
     <option name="translationDialogLocationY" value="447" />
-    <option name="translationDialogWidth" value="570" />
+    <option name="translationDialogWidth" value="865" />
     <histories>
+      <item value="Retrieve a list of devices currently connected to the system&#10;The list includes devices connected to by any app&#10;You must still call device.connect() to connect them to your app" />
+      <item value="Повторить поиск" />
       <item value="тип устройства" />
       <item value="nbg" />
       <item value="form factor" />
@@ -56,13 +58,11 @@
       <item value="rfкавычки" />
       <item value="rfdsxrb" />
       <item value="Can you tell me what's results you get from the wakelock plugins" />
-      <item value="Remove the whole current pages stack and push all given routes&#10;if onFailure callback is provided, navigation errors will be passed to it otherwise they'll be thrown&#10;if updateExistingRoutes is set to false a fresh stack will be initiated." />
-      <item value="✗ Failed to build: Flutter assets will be downloaded from https://download.shorebird.dev. Make sure you trust this source!&#10;Note: path is pinned to version 1.8.3 by flutter_test from the flutter SDK.&#10;See https://dart.dev/go/sdk-version-pinning for details.&#10;&#10;&#10;Because every version of flutter_test from sdk depends on path 1.8.3 and secundant depends on path ^1.9.0, flutter_test from sdk is forbidden.&#10;So, because secundant depends on flutter_test from sdk, version solving failed.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
-        <entry key="RUSSIAN" value="42" />
+        <entry key="RUSSIAN" value="43" />
       </map>
     </option>
   </component>

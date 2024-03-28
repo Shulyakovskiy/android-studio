@@ -3,11 +3,18 @@
     <option name="lastTrimTime" value="1711358930615" />
   </component>
   <component name="Translation.States">
+    <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="379" />
     <option name="translationDialogLocationX" value="794" />
     <option name="translationDialogLocationY" value="447" />
-    <option name="translationDialogWidth" value="851" />
+    <option name="translationDialogWidth" value="845" />
     <histories>
+      <item value="олень" />
+      <item value="jktym" />
+      <item value="jk" />
+      <item value="человек" />
+      <item value="xчеловек" />
+      <item value="xtkjdtr" />
       <item value="Ошибка подключения к устройству" />
       <item value="The type of the right operand ('DeviceConnectionState') isn't a subtype or a supertype of the left operand ('BluetoothConnectionState')." />
       <item value="    // 1. typically, start a periodic timer that tries to &#10;        //    reconnect, or just call connect() again right now&#10;        // 2. you must always re-discover services after disconnection!" />
@@ -52,12 +59,6 @@
       <item value="Подключение {}к шлюзу Секундант" />
       <item value="челка" />
       <item value="шлюз" />
-      <item value="ik.p" />
-      <item value="ik." />
-      <item value="подключено" />
-      <item value="из" />
-      <item value="training" />
-      <item value="Тренировки" />
     </histories>
     <option name="languageScores">
       <map>

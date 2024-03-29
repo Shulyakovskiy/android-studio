@@ -7,8 +7,9 @@
     <option name="translationDialogHeight" value="379" />
     <option name="translationDialogLocationX" value="794" />
     <option name="translationDialogLocationY" value="447" />
-    <option name="translationDialogWidth" value="837" />
+    <option name="translationDialogWidth" value="835" />
     <histories>
+      <item value="When set to true the group header of the current visible group will stick on top.&#10;" />
       <item value="reconnect whenever the device is found&#10;  ///      - if true, this function always returns immediately.&#10;  ///      - you must listen to `connectionState` to know when connection occurs.&#10;  ///      - auto connect is turned off by calling `disconnect`&#10;  ///      - auto connect results in a slower connection process compared to a direct connection&#10;  ///        because it relies on the internal scheduling of background scans." />
       <item value="Подключанные устройства" />
       <item value="Найденные устройства" />
@@ -58,12 +59,11 @@
       <item value="Понятно, к подключению" />
       <item value="onwards" />
       <item value="Далее" />
-      <item value="далее" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
-        <entry key="RUSSIAN" value="47" />
+        <entry key="RUSSIAN" value="48" />
       </map>
     </option>
   </component>

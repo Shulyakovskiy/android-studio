@@ -1,14 +1,15 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1711358930615" />
+    <option name="lastTrimTime" value="1711964996985" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="379" />
     <option name="translationDialogLocationX" value="794" />
     <option name="translationDialogLocationY" value="447" />
-    <option name="translationDialogWidth" value="833" />
+    <option name="translationDialogWidth" value="831" />
     <histories>
+      <item value="Имя устройства" />
       <item value="Establishes a connection to the Bluetooth Device. timeout if timeout occurs, cancel the connection request and throw exception mtu Android only. Request a larger mtu right after connection, if set. autoConnect reconnect whenever the device is found - if true, this function always returns immediately. - you must listen to connectionState to know when connection occurs. - auto connect is turned off by calling disconnect - auto connect results in a slower connection process compared to a direct connection because it relies on the internal scheduling of background scans." />
       <item value="When set to true the group header of the current visible group will stick on top.&#10;" />
       <item value="reconnect whenever the device is found&#10;  ///      - if true, this function always returns immediately.&#10;  ///      - you must listen to `connectionState` to know when connection occurs.&#10;  ///      - auto connect is turned off by calling `disconnect`&#10;  ///      - auto connect results in a slower connection process compared to a direct connection&#10;  ///        because it relies on the internal scheduling of background scans." />
@@ -58,7 +59,6 @@
       <item value="pfdth" />
       <item value="В списке устройств подключитесь к {}беспроводному шлюзу с тем же номером" />
       <item value="Понятно, к подключению" />
-      <item value="onwards" />
     </histories>
     <option name="languageScores">
       <map>

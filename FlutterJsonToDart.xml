@@ -1,5 +1,6 @@
 <application>
   <component name="FlutterJsonToDart">
     <option name="explicitToJson" value="true" />
+    <option name="copyWith" value="true" />
   </component>
 </application>

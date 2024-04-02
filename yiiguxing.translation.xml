@@ -7,8 +7,13 @@
     <option name="translationDialogHeight" value="379" />
     <option name="translationDialogLocationX" value="794" />
     <option name="translationDialogLocationY" value="447" />
-    <option name="translationDialogWidth" value="811" />
+    <option name="translationDialogWidth" value="803" />
     <histories>
+      <item value="Статус" />
+      <item value="Настройка мишени" />
+      <item value="Подсветить мишень" />
+      <item value="подсветить" />
+      <item value="gjlcdtnbnm" />
       <item value="Имя мишени" />
       <item value="boottom" />
       <item value="hostage" />
@@ -54,11 +59,6 @@
       <item value="hzljv" />
       <item value="Bluetooth не поддерживается в данном устройстве" />
       <item value="              // first, check if bluetooth is supported by your hardware&#10;              // Note: The platform is initialized on the first call to any FlutterBluePlus method." />
-      <item value="cancel to prevent duplicate listeners" />
-      <item value="три" />
-      <item value="nhb" />
-      <item value="Bluetooth выключен {}Включите сервис, что бы использовать шлюзы {}и мишени Секундант" />
-      <item value="Bluetooth этого устройства выключен {}Включите его, что бы использовать шлюзы {}и мишени Секундант" />
     </histories>
     <option name="languageScores">
       <map>

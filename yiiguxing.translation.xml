@@ -7,8 +7,9 @@
     <option name="translationDialogHeight" value="379" />
     <option name="translationDialogLocationX" value="794" />
     <option name="translationDialogLocationY" value="447" />
-    <option name="translationDialogWidth" value="799" />
+    <option name="translationDialogWidth" value="797" />
     <histories>
+      <item value="Two different org values supplied: `seconds-man` (from token), `sekundant`.&#10;" />
       <item value=" Expected an identifier." />
       <item value="год выпуска" />
       <item value="ujl dsgecr" />
@@ -58,12 +59,11 @@
       <item value="Подключен" />
       <item value="Включить Bluetooth" />
       <item value="Поиск шлюзов рядом с Вами" />
-      <item value="рядом" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
-        <entry key="RUSSIAN" value="51" />
+        <entry key="RUSSIAN" value="52" />
       </map>
     </option>
   </component>

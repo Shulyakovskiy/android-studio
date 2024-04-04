@@ -7,8 +7,20 @@
     <option name="translationDialogHeight" value="379" />
     <option name="translationDialogLocationX" value="794" />
     <option name="translationDialogLocationY" value="447" />
-    <option name="translationDialogWidth" value="795" />
+    <option name="translationDialogWidth" value="791" />
     <histories>
+      <item value="Зарубежные снайперские винтовки&quot;" />
+      <item value="Зарубежные штурмовые винтовки" />
+      <item value="Самозарядные карабины" />
+      <item value="Пистолеты-пулемёты" />
+      <item value="Штуцеры" />
+      <item value="Пулемёты" />
+      <item value="Револьверы" />
+      <item value="Зарубежные пистолеты" />
+      <item value="Отечественные снайперские винтовки" />
+      <item value="Отечественные штурмовые винтовки" />
+      <item value="Охотничьи карабины/Винтовки" />
+      <item value="Отечественные пистолеты" />
       <item value="Displays an Android View that continues showing the launch screen&#10;                 Drawable until Flutter paints its first frame, then this splash&#10;                 screen fades out. A splash screen is useful to avoid any visual&#10;                 gap between the end of Android's launch screen and the painting of&#10;                 Flutter's first frame" />
       <item value="Two different org values supplied: `seconds-man` (from token), `sekundant`.&#10;" />
       <item value=" Expected an identifier." />
@@ -47,23 +59,11 @@
       <item value="The type of the right operand ('DeviceConnectionState') isn't a subtype or a supertype of the left operand ('BluetoothConnectionState')." />
       <item value="    // 1. typically, start a periodic timer that tries to &#10;        //    reconnect, or just call connect() again right now&#10;        // 2. you must always re-discover services after disconnection!" />
       <item value="Включите сервис геолокации" />
-      <item value="Отключить" />
-      <item value="Подключить" />
-      <item value="Creates a database builder for a persistent database. Once a database is built, you should keep a reference to it and re-use it" />
-      <item value="Retrieve a list of devices currently connected to the system&#10;The list includes devices connected to by any app&#10;You must still call device.connect() to connect them to your app" />
-      <item value="Повторить поиск" />
-      <item value="тип устройства" />
-      <item value="nbg" />
-      <item value="form factor" />
-      <item value="Не в сети" />
-      <item value="{} из {} мишеней подключено" />
-      <item value="Подключен" />
-      <item value="Включить Bluetooth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="3" />
-        <entry key="RUSSIAN" value="53" />
+        <entry key="ENGLISH" value="13" />
+        <entry key="RUSSIAN" value="63" />
       </map>
     </option>
   </component>

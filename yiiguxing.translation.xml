@@ -9,6 +9,7 @@
     <option name="translationDialogLocationY" value="447" />
     <option name="translationDialogWidth" value="791" />
     <histories>
+      <item value="Onwards" />
       <item value="Зарубежные снайперские винтовки&quot;" />
       <item value="Зарубежные штурмовые винтовки" />
       <item value="Самозарядные карабины" />
@@ -58,12 +59,11 @@
       <item value="Ошибка подключения к устройству" />
       <item value="The type of the right operand ('DeviceConnectionState') isn't a subtype or a supertype of the left operand ('BluetoothConnectionState')." />
       <item value="    // 1. typically, start a periodic timer that tries to &#10;        //    reconnect, or just call connect() again right now&#10;        // 2. you must always re-discover services after disconnection!" />
-      <item value="Включите сервис геолокации" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="13" />
-        <entry key="RUSSIAN" value="63" />
+        <entry key="ENGLISH" value="15" />
+        <entry key="RUSSIAN" value="64" />
       </map>
     </option>
   </component>

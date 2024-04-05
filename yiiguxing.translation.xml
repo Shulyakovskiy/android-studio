@@ -7,8 +7,9 @@
     <option name="translationDialogHeight" value="379" />
     <option name="translationDialogLocationX" value="794" />
     <option name="translationDialogLocationY" value="447" />
-    <option name="translationDialogWidth" value="789" />
+    <option name="translationDialogWidth" value="787" />
     <histories>
+      <item value="Sets the value associated with this form field.&#10;This method should only be called by subclasses that need to update the form field value due to state changes identified during the widget build phase, when calling setState is prohibited. In all other cases, the value should be set by a call to didChange, which ensures that setState is called." />
       <item value="Галерея" />
       <item value="Onwards" />
       <item value="Зарубежные снайперские винтовки&quot;" />
@@ -58,12 +59,11 @@
       <item value="xчеловек" />
       <item value="xtkjdtr" />
       <item value="Ошибка подключения к устройству" />
-      <item value="The type of the right operand ('DeviceConnectionState') isn't a subtype or a supertype of the left operand ('BluetoothConnectionState')." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="15" />
-        <entry key="RUSSIAN" value="64" />
+        <entry key="RUSSIAN" value="65" />
       </map>
     </option>
   </component>

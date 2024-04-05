@@ -7,8 +7,9 @@
     <option name="translationDialogHeight" value="379" />
     <option name="translationDialogLocationX" value="794" />
     <option name="translationDialogLocationY" value="447" />
-    <option name="translationDialogWidth" value="787" />
+    <option name="translationDialogWidth" value="785" />
     <histories>
+      <item value="Error reading Sqlite table &quot;weapons&quot;: Row too big to fit into CursorWindow requiredPos=0, totalRows=1" />
       <item value="Sets the value associated with this form field.&#10;This method should only be called by subclasses that need to update the form field value due to state changes identified during the widget build phase, when calling setState is prohibited. In all other cases, the value should be set by a call to didChange, which ensures that setState is called." />
       <item value="Галерея" />
       <item value="Onwards" />
@@ -58,12 +59,11 @@
       <item value="человек" />
       <item value="xчеловек" />
       <item value="xtkjdtr" />
-      <item value="Ошибка подключения к устройству" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="15" />
-        <entry key="RUSSIAN" value="65" />
+        <entry key="RUSSIAN" value="66" />
       </map>
     </option>
   </component>

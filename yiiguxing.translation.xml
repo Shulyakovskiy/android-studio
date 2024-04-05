@@ -7,8 +7,9 @@
     <option name="translationDialogHeight" value="379" />
     <option name="translationDialogLocationX" value="794" />
     <option name="translationDialogLocationY" value="447" />
-    <option name="translationDialogWidth" value="791" />
+    <option name="translationDialogWidth" value="789" />
     <histories>
+      <item value="Галерея" />
       <item value="Onwards" />
       <item value="Зарубежные снайперские винтовки&quot;" />
       <item value="Зарубежные штурмовые винтовки" />
@@ -58,7 +59,6 @@
       <item value="xtkjdtr" />
       <item value="Ошибка подключения к устройству" />
       <item value="The type of the right operand ('DeviceConnectionState') isn't a subtype or a supertype of the left operand ('BluetoothConnectionState')." />
-      <item value="    // 1. typically, start a periodic timer that tries to &#10;        //    reconnect, or just call connect() again right now&#10;        // 2. you must always re-discover services after disconnection!" />
     </histories>
     <option name="languageScores">
       <map>

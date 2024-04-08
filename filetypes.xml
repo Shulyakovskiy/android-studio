@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="db" type="DBN-SQL" />
-      <mapping ext="sql" type="DBN-SQL" />
-      <mapping ext="ddl" type="DBN-SQL" />
       <mapping ext="isar" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />

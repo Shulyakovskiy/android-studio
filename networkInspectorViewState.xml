@@ -12,12 +12,12 @@
       <column-info name="Size" width-ratio="0.05717367853290183" />
       <column-info name="Request Headers" width-ratio="0.05" visible="false" />
       <column-info name="Response Headers" width-ratio="0.05" visible="false" />
-      <column-info name="Type" width-ratio="0.06903991370010787" />
+      <column-info name="Type" width-ratio="0.06850053937432578" />
       <column-info name="Status" width-ratio="0.05717367853290183" />
-      <column-info name="Time" width-ratio="0.0593311758360302" />
+      <column-info name="Time" width-ratio="0.06040992448759439" />
       <column-info name="Request Time" width-ratio="0.05" visible="false" />
       <column-info name="Response Time" width-ratio="0.05" visible="false" />
-      <column-info name="Timeline" width-ratio="0.5026968716289104" />
+      <column-info name="Timeline" width-ratio="0.5021574973031284" />
     </columns>
   </component>
 </application>

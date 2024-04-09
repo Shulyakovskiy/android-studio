@@ -7,8 +7,9 @@
     <option name="translationDialogHeight" value="379" />
     <option name="translationDialogLocationX" value="794" />
     <option name="translationDialogLocationY" value="447" />
-    <option name="translationDialogWidth" value="781" />
+    <option name="translationDialogWidth" value="779" />
     <histories>
+      <item value="nhandled Exception: Unsupported operation: ObjectBox platform-specific library not compatible: is 0.15.2 (3.1.2-2022-02-15 (admin)), expected 0.21.0 (3.8.0-2024-02-13) or newer. For Flutter, check if the ObjectBox Pod or objectbox-android-objectbrowser need to be updated. For Dart, re-run the install.sh script to download the latest version" />
       <item value="Subscribes to a Future and returns its current state as an AsyncSnapshot.&#10;preserveState determines if the current value should be preserved when changing the Future instance.&#10;The Future needs to be created outside of useFuture. If the Future is created inside useFuture, then, every time the build method gets called, the Future will be called again. One way to create the Future outside of useFuture is by using useMemoized." />
       <item value="reates a fixed-length scrollable linear array of list &quot;items&quot; separated by list item &quot;separators&quot;.&#10;This constructor is appropriate for list views with a large number of item and separator children because the builders are only called for the children that are actually visible.&#10;The itemBuilder callback will be called with indices greater than or equal to zero and less than itemCount.&#10;Separators only appear between list items: separator 0 appears after item 0 and the last separator appears before the last item.&#10;The separatorBuilder callback will be called with indices greater than or equal to zero and less than itemCount - 1.&#10;The itemBuilder and separatorBuilder callbacks should always actually create widget instances when called. Avoid using a builder that returns a previously-constructed widget; if the list view's children are created in advance, or all at once when the ListView itself is created, it is more efficient to use the ListView constructor.&#10;It is legal for itemBuilder to return null. If it does, the scroll view will stop calling itemBuilder, even if it has yet to reach itemCount. By returning null, the ScrollPosition.maxScrollExtent will not be accurate unless the user has reached the end of the ScrollView. This can also cause the Scrollbar to grow as the user scrolls.&#10;For more accurate ScrollMetrics, consider specifying itemCount.&#10;The findChildIndexCallback corresponds to the SliverChildBuilderDelegate.findChildIndexCallback property. If null, a child widget may not map to its existing RenderObject when the order of children returned from the children builder changes. This may result in state-loss. This callback needs to be implemented if the order of the children may change at a later time." />
       <item value="Error reading Sqlite table &quot;weapons&quot;: Row too big to fit into CursorWindow requiredPos=0, totalRows=1" />
@@ -58,12 +59,11 @@
       <item value="олень" />
       <item value="jktym" />
       <item value="jk" />
-      <item value="человек" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="15" />
-        <entry key="RUSSIAN" value="68" />
+        <entry key="RUSSIAN" value="69" />
       </map>
     </option>
   </component>

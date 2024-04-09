@@ -7,8 +7,9 @@
     <option name="translationDialogHeight" value="379" />
     <option name="translationDialogLocationX" value="794" />
     <option name="translationDialogLocationY" value="447" />
-    <option name="translationDialogWidth" value="783" />
+    <option name="translationDialogWidth" value="781" />
     <histories>
+      <item value="Subscribes to a Future and returns its current state as an AsyncSnapshot.&#10;preserveState determines if the current value should be preserved when changing the Future instance.&#10;The Future needs to be created outside of useFuture. If the Future is created inside useFuture, then, every time the build method gets called, the Future will be called again. One way to create the Future outside of useFuture is by using useMemoized." />
       <item value="reates a fixed-length scrollable linear array of list &quot;items&quot; separated by list item &quot;separators&quot;.&#10;This constructor is appropriate for list views with a large number of item and separator children because the builders are only called for the children that are actually visible.&#10;The itemBuilder callback will be called with indices greater than or equal to zero and less than itemCount.&#10;Separators only appear between list items: separator 0 appears after item 0 and the last separator appears before the last item.&#10;The separatorBuilder callback will be called with indices greater than or equal to zero and less than itemCount - 1.&#10;The itemBuilder and separatorBuilder callbacks should always actually create widget instances when called. Avoid using a builder that returns a previously-constructed widget; if the list view's children are created in advance, or all at once when the ListView itself is created, it is more efficient to use the ListView constructor.&#10;It is legal for itemBuilder to return null. If it does, the scroll view will stop calling itemBuilder, even if it has yet to reach itemCount. By returning null, the ScrollPosition.maxScrollExtent will not be accurate unless the user has reached the end of the ScrollView. This can also cause the Scrollbar to grow as the user scrolls.&#10;For more accurate ScrollMetrics, consider specifying itemCount.&#10;The findChildIndexCallback corresponds to the SliverChildBuilderDelegate.findChildIndexCallback property. If null, a child widget may not map to its existing RenderObject when the order of children returned from the children builder changes. This may result in state-loss. This callback needs to be implemented if the order of the children may change at a later time." />
       <item value="Error reading Sqlite table &quot;weapons&quot;: Row too big to fit into CursorWindow requiredPos=0, totalRows=1" />
       <item value="Sets the value associated with this form field.&#10;This method should only be called by subclasses that need to update the form field value due to state changes identified during the widget build phase, when calling setState is prohibited. In all other cases, the value should be set by a call to didChange, which ensures that setState is called." />
@@ -58,12 +59,11 @@
       <item value="jktym" />
       <item value="jk" />
       <item value="человек" />
-      <item value="xчеловек" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="15" />
-        <entry key="RUSSIAN" value="67" />
+        <entry key="RUSSIAN" value="68" />
       </map>
     </option>
   </component>

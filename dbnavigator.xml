@@ -22,6 +22,7 @@
       <status project="D:/Demo/Flutter/Flutter-Compute-Sample" dbn="PASSIVE" sql="MISSING" />
       <status project="D:/GIT/Raptor/GIT/Demo/Flutter/ui/ui_samples" dbn="PASSIVE" sql="MISSING" />
       <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
+      <status project="D:/GIT/Raptor/GIT/Demo/Flutter/objectbox_browser" dbn="PASSIVE" sql="MISSING" />
     </plugin-statuses>
   </component>
   <component name="DBNavigator.Application.Settings">

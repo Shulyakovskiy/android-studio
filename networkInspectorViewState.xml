@@ -12,9 +12,9 @@
       <column-info name="Size" width-ratio="0.05717367853290183" />
       <column-info name="Request Headers" width-ratio="0.05" visible="false" />
       <column-info name="Response Headers" width-ratio="0.05" visible="false" />
-      <column-info name="Type" width-ratio="0.06850053937432578" />
+      <column-info name="Type" width-ratio="0.06796116504854369" />
       <column-info name="Status" width-ratio="0.05717367853290183" />
-      <column-info name="Time" width-ratio="0.06040992448759439" />
+      <column-info name="Time" width-ratio="0.06094929881337648" />
       <column-info name="Request Time" width-ratio="0.05" visible="false" />
       <column-info name="Response Time" width-ratio="0.05" visible="false" />
       <column-info name="Timeline" width-ratio="0.5021574973031284" />

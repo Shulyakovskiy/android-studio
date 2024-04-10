@@ -9,6 +9,7 @@
     <option name="translationDialogLocationY" value="447" />
     <option name="translationDialogWidth" value="777" />
     <histories>
+      <item value="Информация об оружии" />
       <item value="Удалить оружие" />
       <item value="nhandled Exception: Unsupported operation: ObjectBox platform-specific library not compatible: is 0.15.2 (3.1.2-2022-02-15 (admin)), expected 0.21.0 (3.8.0-2024-02-13) or newer. For Flutter, check if the ObjectBox Pod or objectbox-android-objectbrowser need to be updated. For Dart, re-run the install.sh script to download the latest version" />
       <item value="Subscribes to a Future and returns its current state as an AsyncSnapshot.&#10;preserveState determines if the current value should be preserved when changing the Future instance.&#10;The Future needs to be created outside of useFuture. If the Future is created inside useFuture, then, every time the build method gets called, the Future will be called again. One way to create the Future outside of useFuture is by using useMemoized." />
@@ -58,12 +59,11 @@
       <item value="yfнайденные" />
       <item value="yfqltyyst" />
       <item value="олень" />
-      <item value="jktym" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="15" />
-        <entry key="RUSSIAN" value="69" />
+        <entry key="ENGLISH" value="16" />
+        <entry key="RUSSIAN" value="70" />
       </map>
     </option>
   </component>

@@ -9,6 +9,7 @@
     <option name="translationDialogLocationY" value="325" />
     <option name="translationDialogWidth" value="777" />
     <histories>
+      <item value="This Router&lt;Object&gt; widget cannot be marked as needing to build because the framework is already in the process of building widgets. A widget can be marked as needing to be built during the build phase only if one of its ancestors is currently building. This exception is allowed because the framework builds parent widgets before children, which means a dirty descendant will always be built. Otherwise, the framework might not visit this widget during this build phase." />
       <item value="Информация не заполнена&quot;" />
       <item value="Мое оружие" />
       <item value="У вас нет добавленного оружия&quot;" />
@@ -58,12 +59,11 @@
       <item value="bottom" />
       <item value="Сохранить изменения" />
       <item value="отключено" />
-      <item value="включено" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="22" />
-        <entry key="RUSSIAN" value="76" />
+        <entry key="RUSSIAN" value="77" />
       </map>
     </option>
   </component>

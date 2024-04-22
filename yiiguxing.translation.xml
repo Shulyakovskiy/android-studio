@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1713333654709" />
+    <option name="lastTrimTime" value="1713772398935" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogCollapseDictViewer" value="false" />
@@ -9,6 +9,7 @@
     <option name="translationDialogLocationY" value="325" />
     <option name="translationDialogWidth" value="777" />
     <histories>
+      <item value="Выбрать можно только один таймер" />
       <item value="Whether to maintain space for where the widget would have been.&#10;To set this, maintainAnimation and maintainState must also be set.&#10;Maintaining the size when the widget is not visible is not notably more expensive than just keeping animations running without maintaining the size, and may in some circumstances be slightly cheaper if the subtree is simple and the visible property is frequently toggled, since it avoids triggering a layout change when the visible property is toggled. If the child subtree is not trivial then it is significantly cheaper to not even keep the state (see maintainState).&#10;If this property is false, Offstage is used.&#10;If this property is false, then maintainSemantics and maintainInteractivity must also be false.&#10;Dynamically changing this value may cause the current state of the subtree to be lost (and a new instance of the subtree, with new State objects, to be immediately created if visible is true).&#10;See also:" />
       <item value="Control whether the given child is visible.&#10;The maintainSemantics and maintainInteractivity arguments can only be set if maintainSize is set.&#10;The maintainSize argument can only be set if maintainAnimation is set.&#10;The maintainAnimation argument can only be set if maintainState is set." />
       <item value="занимает" />
@@ -58,13 +59,12 @@
       <item value="Onwards" />
       <item value="Зарубежные снайперские винтовки&quot;" />
       <item value="Зарубежные штурмовые винтовки" />
-      <item value="Самозарядные карабины" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="ENGLISH" value="28" />
-        <entry key="RUSSIAN" value="85" />
+        <entry key="ENGLISH" value="29" />
+        <entry key="RUSSIAN" value="86" />
       </map>
     </option>
   </component>

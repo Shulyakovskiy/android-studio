@@ -5,10 +5,13 @@
   <component name="Translation.States">
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="379" />
-    <option name="translationDialogLocationX" value="570" />
-    <option name="translationDialogLocationY" value="325" />
+    <option name="translationDialogLocationX" value="1040" />
+    <option name="translationDialogLocationY" value="269" />
     <option name="translationDialogWidth" value="777" />
     <histories>
+      <item value="старт" />
+      <item value="заголовок" />
+      <item value="pfujkjdjr" />
       <item value="Выбрать можно только один таймер" />
       <item value="Whether to maintain space for where the widget would have been.&#10;To set this, maintainAnimation and maintainState must also be set.&#10;Maintaining the size when the widget is not visible is not notably more expensive than just keeping animations running without maintaining the size, and may in some circumstances be slightly cheaper if the subtree is simple and the visible property is frequently toggled, since it avoids triggering a layout change when the visible property is toggled. If the child subtree is not trivial then it is significantly cheaper to not even keep the state (see maintainState).&#10;If this property is false, Offstage is used.&#10;If this property is false, then maintainSemantics and maintainInteractivity must also be false.&#10;Dynamically changing this value may cause the current state of the subtree to be lost (and a new instance of the subtree, with new State objects, to be immediately created if visible is true).&#10;See also:" />
       <item value="Control whether the given child is visible.&#10;The maintainSemantics and maintainInteractivity arguments can only be set if maintainSize is set.&#10;The maintainSize argument can only be set if maintainAnimation is set.&#10;The maintainAnimation argument can only be set if maintainState is set." />
@@ -56,9 +59,6 @@
       <item value="reates a fixed-length scrollable linear array of list &quot;items&quot; separated by list item &quot;separators&quot;.&#10;This constructor is appropriate for list views with a large number of item and separator children because the builders are only called for the children that are actually visible.&#10;The itemBuilder callback will be called with indices greater than or equal to zero and less than itemCount.&#10;Separators only appear between list items: separator 0 appears after item 0 and the last separator appears before the last item.&#10;The separatorBuilder callback will be called with indices greater than or equal to zero and less than itemCount - 1.&#10;The itemBuilder and separatorBuilder callbacks should always actually create widget instances when called. Avoid using a builder that returns a previously-constructed widget; if the list view's children are created in advance, or all at once when the ListView itself is created, it is more efficient to use the ListView constructor.&#10;It is legal for itemBuilder to return null. If it does, the scroll view will stop calling itemBuilder, even if it has yet to reach itemCount. By returning null, the ScrollPosition.maxScrollExtent will not be accurate unless the user has reached the end of the ScrollView. This can also cause the Scrollbar to grow as the user scrolls.&#10;For more accurate ScrollMetrics, consider specifying itemCount.&#10;The findChildIndexCallback corresponds to the SliverChildBuilderDelegate.findChildIndexCallback property. If null, a child widget may not map to its existing RenderObject when the order of children returned from the children builder changes. This may result in state-loss. This callback needs to be implemented if the order of the children may change at a later time." />
       <item value="Error reading Sqlite table &quot;weapons&quot;: Row too big to fit into CursorWindow requiredPos=0, totalRows=1" />
       <item value="Sets the value associated with this form field.&#10;This method should only be called by subclasses that need to update the form field value due to state changes identified during the widget build phase, when calling setState is prohibited. In all other cases, the value should be set by a call to didChange, which ensures that setState is called." />
-      <item value="Onwards" />
-      <item value="Зарубежные снайперские винтовки&quot;" />
-      <item value="Зарубежные штурмовые винтовки" />
     </histories>
     <option name="languageScores">
       <map>

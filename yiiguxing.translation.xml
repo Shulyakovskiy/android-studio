@@ -9,9 +9,9 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="970" />
     <histories>
-      <item value="зона" />
       <item value="зон" />
       <item value="зоны" />
+      <item value="зона" />
       <item value="Заложник" />
       <item value="Стандарт" />
       <item value="  /// The application is not currently visible to the user, and not responding&#10;  /// to user input.&#10;  ///&#10;  /// When the application is in this state, the engine will not call the&#10;  /// [PlatformDispatcher.onBeginFrame] and [PlatformDispatcher.onDrawFrame]&#10;  /// callbacks.&#10;  ///&#10;  /// This state is only entered on iOS and Android." />
@@ -62,11 +62,11 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="BULGARIAN" value="3" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="BULGARIAN" value="4" />
+        <entry key="ENGLISH" value="41" />
         <entry key="MACEDONIAN" value="1" />
-        <entry key="RUSSIAN" value="89" />
-        <entry key="UKRAINIAN" value="2" />
+        <entry key="RUSSIAN" value="90" />
+        <entry key="UKRAINIAN" value="6" />
       </map>
     </option>
   </component>

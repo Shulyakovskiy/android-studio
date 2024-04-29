@@ -9,6 +9,9 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="970" />
     <histories>
+      <item value="зона" />
+      <item value="зон" />
+      <item value="зоны" />
       <item value="Заложник" />
       <item value="Стандарт" />
       <item value="  /// The application is not currently visible to the user, and not responding&#10;  /// to user input.&#10;  ///&#10;  /// When the application is in this state, the engine will not call the&#10;  /// [PlatformDispatcher.onBeginFrame] and [PlatformDispatcher.onDrawFrame]&#10;  /// callbacks.&#10;  ///&#10;  /// This state is only entered on iOS and Android." />
@@ -56,16 +59,14 @@
       <item value="название" />
       <item value="yfpdfybt" />
       <item value="Введите данные об оружи" />
-      <item value="Информация об оружии" />
-      <item value="Удалить оружие" />
-      <item value="nhandled Exception: Unsupported operation: ObjectBox platform-specific library not compatible: is 0.15.2 (3.1.2-2022-02-15 (admin)), expected 0.21.0 (3.8.0-2024-02-13) or newer. For Flutter, check if the ObjectBox Pod or objectbox-android-objectbrowser need to be updated. For Dart, re-run the install.sh script to download the latest version" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="BULGARIAN" value="1" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="BULGARIAN" value="3" />
+        <entry key="ENGLISH" value="35" />
         <entry key="MACEDONIAN" value="1" />
-        <entry key="RUSSIAN" value="88" />
+        <entry key="RUSSIAN" value="89" />
+        <entry key="UKRAINIAN" value="2" />
       </map>
     </option>
   </component>

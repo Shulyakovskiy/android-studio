@@ -9,6 +9,8 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="970" />
     <histories>
+      <item value="Заложник" />
+      <item value="Стандарт" />
       <item value="  /// The application is not currently visible to the user, and not responding&#10;  /// to user input.&#10;  ///&#10;  /// When the application is in this state, the engine will not call the&#10;  /// [PlatformDispatcher.onBeginFrame] and [PlatformDispatcher.onDrawFrame]&#10;  /// callbacks.&#10;  ///&#10;  /// This state is only entered on iOS and Android." />
       <item value="  /// All views of an application are hidden, either because the application is&#10;  /// about to be paused (on iOS and Android), or because it has been minimized&#10;  /// or placed on a desktop that is no longer visible (on non-web desktop), or&#10;  /// is running in a window or tab that is no longer visible (on the web).&#10;  ///&#10;  /// On iOS and Android, in order to keep the state machine the same on all&#10;  /// platforms, a transition to this state is synthesized before the [paused]&#10;  /// state is entered when coming from [inactive], and before the [inactive]&#10;  /// state is entered when coming from [paused]. This allows cross-platform&#10;  /// implementations that want to know when an app is conceptually &quot;hidden&quot; to&#10;  /// only write one handler." />
       <item value="старт" />
@@ -57,13 +59,12 @@
       <item value="Информация об оружии" />
       <item value="Удалить оружие" />
       <item value="nhandled Exception: Unsupported operation: ObjectBox platform-specific library not compatible: is 0.15.2 (3.1.2-2022-02-15 (admin)), expected 0.21.0 (3.8.0-2024-02-13) or newer. For Flutter, check if the ObjectBox Pod or objectbox-android-objectbrowser need to be updated. For Dart, re-run the install.sh script to download the latest version" />
-      <item value="Subscribes to a Future and returns its current state as an AsyncSnapshot.&#10;preserveState determines if the current value should be preserved when changing the Future instance.&#10;The Future needs to be created outside of useFuture. If the Future is created inside useFuture, then, every time the build method gets called, the Future will be called again. One way to create the Future outside of useFuture is by using useMemoized." />
-      <item value="reates a fixed-length scrollable linear array of list &quot;items&quot; separated by list item &quot;separators&quot;.&#10;This constructor is appropriate for list views with a large number of item and separator children because the builders are only called for the children that are actually visible.&#10;The itemBuilder callback will be called with indices greater than or equal to zero and less than itemCount.&#10;Separators only appear between list items: separator 0 appears after item 0 and the last separator appears before the last item.&#10;The separatorBuilder callback will be called with indices greater than or equal to zero and less than itemCount - 1.&#10;The itemBuilder and separatorBuilder callbacks should always actually create widget instances when called. Avoid using a builder that returns a previously-constructed widget; if the list view's children are created in advance, or all at once when the ListView itself is created, it is more efficient to use the ListView constructor.&#10;It is legal for itemBuilder to return null. If it does, the scroll view will stop calling itemBuilder, even if it has yet to reach itemCount. By returning null, the ScrollPosition.maxScrollExtent will not be accurate unless the user has reached the end of the ScrollView. This can also cause the Scrollbar to grow as the user scrolls.&#10;For more accurate ScrollMetrics, consider specifying itemCount.&#10;The findChildIndexCallback corresponds to the SliverChildBuilderDelegate.findChildIndexCallback property. If null, a child widget may not map to its existing RenderObject when the order of children returned from the children builder changes. This may result in state-loss. This callback needs to be implemented if the order of the children may change at a later time." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="ENGLISH" value="30" />
+        <entry key="MACEDONIAN" value="1" />
         <entry key="RUSSIAN" value="88" />
       </map>
     </option>

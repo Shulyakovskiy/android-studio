@@ -9,6 +9,7 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="970" />
     <histories>
+      <item value="подсветить" />
       <item value="зон" />
       <item value="зоны" />
       <item value="зона" />
@@ -58,7 +59,6 @@
       <item value="Год выпуска" />
       <item value="название" />
       <item value="yfpdfybt" />
-      <item value="Введите данные об оружи" />
     </histories>
     <option name="languageScores">
       <map>

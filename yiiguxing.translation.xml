@@ -9,6 +9,7 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="970" />
     <histories>
+      <item value="Calls listener every time the status of the animation changes.&#10;Listeners can be removed with removeStatusListener." />
       <item value="круг" />
       <item value="rheu" />
       <item value="подсветить" />
@@ -58,14 +59,13 @@
       <item value="Галерея" />
       <item value="Фото оружия, лицензия и т.п {}До 3-х файлов, *.jpg, *.png, до 5 мб" />
       <item value="Серийный номер" />
-      <item value="Год выпуска" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="4" />
         <entry key="ENGLISH" value="41" />
         <entry key="MACEDONIAN" value="1" />
-        <entry key="RUSSIAN" value="90" />
+        <entry key="RUSSIAN" value="91" />
         <entry key="UKRAINIAN" value="6" />
       </map>
     </option>

@@ -6,9 +6,11 @@
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="543" />
     <option name="translationDialogLocationX" value="474" />
-    <option name="translationDialogLocationY" value="162" />
+    <option name="translationDialogLocationY" value="185" />
     <option name="translationDialogWidth" value="970" />
     <histories>
+      <item value="Three" />
+      <item value="Thre" />
       <item value="ноги" />
       <item value="yjub" />
       <item value="легкие" />
@@ -57,15 +59,13 @@
       <item value="│ At this point the state of the widget's element tree is no longer stable.&#10;[        ] I/flutter ( 7338): │ To safely refer to a widget's ancestor in its dispose() method, save a reference to the ancestor by calling dependOnInheritedWidgetOfExactType() in the widget's didChangeDependencies() method." />
       <item value="Название тренировки" />
       <item value="ошибочные" />
-      <item value="jошибочные" />
-      <item value="jib,jxyst" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="4" />
         <entry key="ENGLISH" value="41" />
         <entry key="MACEDONIAN" value="1" />
-        <entry key="RUSSIAN" value="92" />
+        <entry key="RUSSIAN" value="93" />
         <entry key="UKRAINIAN" value="6" />
       </map>
     </option>

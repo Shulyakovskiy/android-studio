@@ -9,6 +9,14 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="970" />
     <histories>
+      <item value="заложник" />
+      <item value="pfkj;ybr" />
+      <item value="pfkj" />
+      <item value="p" />
+      <item value="тело" />
+      <item value="ntkj" />
+      <item value="голова" />
+      <item value="ujkjdf" />
       <item value="The animation is stopped at the beginning" />
       <item value="Calls listener every time the status of the animation changes.&#10;Listeners can be removed with removeStatusListener." />
       <item value="круг" />
@@ -51,14 +59,6 @@
       <item value="jnkj;tyyfz" />
       <item value="jnkj" />
       <item value="This Router&lt;Object&gt; widget cannot be marked as needing to build because the framework is already in the process of building widgets. A widget can be marked as needing to be built during the build phase only if one of its ancestors is currently building. This exception is allowed because the framework builds parent widgets before children, which means a dirty descendant will always be built. Otherwise, the framework might not visit this widget during this build phase." />
-      <item value="Информация не заполнена&quot;" />
-      <item value="Мое оружие" />
-      <item value="У вас нет добавленного оружия&quot;" />
-      <item value="Оружейная" />
-      <item value="Удалить" />
-      <item value="Нельзя добавить больше 3-х изображений, удалите для добавления новых." />
-      <item value="Галерея" />
-      <item value="Фото оружия, лицензия и т.п {}До 3-х файлов, *.jpg, *.png, до 5 мб" />
     </histories>
     <option name="languageScores">
       <map>

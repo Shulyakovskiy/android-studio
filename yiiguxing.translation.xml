@@ -5,10 +5,20 @@
   <component name="Translation.States">
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="543" />
-    <option name="translationDialogLocationX" value="474" />
-    <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="970" />
     <histories>
+      <item value="ноги" />
+      <item value="yjub" />
+      <item value="легкие" />
+      <item value="лехгкие" />
+      <item value="лех" />
+      <item value="ле" />
+      <item value="л" />
+      <item value="легкое" />
+      <item value="kturjt" />
+      <item value="k" />
+      <item value="сердце" />
+      <item value="cthlwt" />
       <item value="заложник" />
       <item value="pfkj;ybr" />
       <item value="pfkj" />
@@ -47,18 +57,6 @@
       <item value="ошибочные" />
       <item value="jошибочные" />
       <item value="jib,jxyst" />
-      <item value="черновик" />
-      <item value="xthyjdbr" />
-      <item value="У Вас нет созданных тренировок" />
-      <item value="Тренировки" />
-      <item value="Для загрузки фотографий" />
-      <item value="Выберите источник" />
-      <item value="Типы файлов *.jpg, *.png, до 5 мб" />
-      <item value="deffered" />
-      <item value="отложенная" />
-      <item value="jnkj;tyyfz" />
-      <item value="jnkj" />
-      <item value="This Router&lt;Object&gt; widget cannot be marked as needing to build because the framework is already in the process of building widgets. A widget can be marked as needing to be built during the build phase only if one of its ancestors is currently building. This exception is allowed because the framework builds parent widgets before children, which means a dirty descendant will always be built. Otherwise, the framework might not visit this widget during this build phase." />
     </histories>
     <option name="languageScores">
       <map>

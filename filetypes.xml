@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="19">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="db" type="DBN-SQL" />
       <mapping pattern="951b8080-eaa5-1f5f-8caf-af3e64c2bc6a_" type="Image" />

@@ -1,14 +1,17 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1715047510547" />
+    <option name="lastTrimTime" value="1715583907640" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="543" />
     <option name="translationDialogLocationX" value="474" />
-    <option name="translationDialogLocationY" value="208" />
+    <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="970" />
     <histories>
+      <item value="сводный" />
+      <item value="cdjlysq" />
+      <item value="cdj" />
       <item value="lightning" />
       <item value="молния" />
       <item value="vjkybz" />
@@ -56,9 +59,6 @@
       <item value="Стандарт" />
       <item value="  /// The application is not currently visible to the user, and not responding&#10;  /// to user input.&#10;  ///&#10;  /// When the application is in this state, the engine will not call the&#10;  /// [PlatformDispatcher.onBeginFrame] and [PlatformDispatcher.onDrawFrame]&#10;  /// callbacks.&#10;  ///&#10;  /// This state is only entered on iOS and Android." />
       <item value="  /// All views of an application are hidden, either because the application is&#10;  /// about to be paused (on iOS and Android), or because it has been minimized&#10;  /// or placed on a desktop that is no longer visible (on non-web desktop), or&#10;  /// is running in a window or tab that is no longer visible (on the web).&#10;  ///&#10;  /// On iOS and Android, in order to keep the state machine the same on all&#10;  /// platforms, a transition to this state is synthesized before the [paused]&#10;  /// state is entered when coming from [inactive], and before the [inactive]&#10;  /// state is entered when coming from [paused]. This allows cross-platform&#10;  /// implementations that want to know when an app is conceptually &quot;hidden&quot; to&#10;  /// only write one handler." />
-      <item value="старт" />
-      <item value="заголовок" />
-      <item value="pfujkjdjr" />
     </histories>
     <option name="languageScores">
       <map>

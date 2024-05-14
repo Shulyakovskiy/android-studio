@@ -9,6 +9,8 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="970" />
     <histories>
+      <item value="рейтинг" />
+      <item value="rating" />
       <item value="The default value of an optional parameter must be constant" />
       <item value="Все стрелки" />
       <item value="сводный" />
@@ -57,8 +59,6 @@
       <item value="зон" />
       <item value="зоны" />
       <item value="зона" />
-      <item value="Заложник" />
-      <item value="Стандарт" />
     </histories>
     <option name="languageScores">
       <map>

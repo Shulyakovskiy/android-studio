@@ -9,6 +9,7 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="970" />
     <histories>
+      <item value="Установите новый код-пароль" />
       <item value="Because every version of flutter_test from sdk depends on meta 1.12.0 and injectable 2.4.1 depends on meta 1.11.0, flutter_test from sdk is incompatible with injectable 2.4.1.&#10;And because no versions of injectable match &gt;2.4.1 &lt;3.0.0, flutter_test from sdk is incompatible with injectable ^2.4.1.&#10;So, because sekundant depends on both injectable ^2.4.1 and flutter_test from sdk, version solving failed." />
       <item value="тренировок" />
       <item value="тренировки" />
@@ -58,14 +59,13 @@
       <item value="ujkjdf" />
       <item value="The animation is stopped at the beginning" />
       <item value="Calls listener every time the status of the animation changes.&#10;Listeners can be removed with removeStatusListener." />
-      <item value="круг" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="7" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="MACEDONIAN" value="1" />
-        <entry key="RUSSIAN" value="104" />
+        <entry key="RUSSIAN" value="105" />
         <entry key="UKRAINIAN" value="6" />
       </map>
     </option>

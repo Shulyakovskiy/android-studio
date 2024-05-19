@@ -16,6 +16,7 @@
   </component>
   <component name="DBNavigator.Application.PluginStatusManager">
     <plugin-statuses>
+      <status project="D:/GIT/Raptor/GIT/sm-litev2" dbn="PASSIVE" sql="MISSING" />
       <status project="D:/GIT/Raptor/GIT/sm-litev2-blik/android" dbn="PASSIVE" sql="MISSING" />
       <status project="D:/Demo/Flutter/flutter-camera-practice" dbn="PASSIVE" sql="MISSING" />
       <status project="D:/GIT/Raptor/GIT/secundant-mp/secundant" dbn="PASSIVE" sql="MISSING" />

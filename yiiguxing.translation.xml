@@ -9,6 +9,8 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="970" />
     <histories>
+      <item value="AVAILABILITY" />
+      <item value="AILABILITY" />
       <item value="htрежим" />
       <item value="ht;bv" />
       <item value="If you see this consistently then it is recommended that you enable the polling file watcher with " />
@@ -57,8 +59,6 @@
       <item value="pfkj" />
       <item value="p" />
       <item value="тело" />
-      <item value="ntkj" />
-      <item value="голова" />
     </histories>
     <option name="languageScores">
       <map>

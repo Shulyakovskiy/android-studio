@@ -1,14 +1,16 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1716209837256" />
+    <option name="lastTrimTime" value="1717044379394" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="543" />
     <option name="translationDialogLocationX" value="474" />
-    <option name="translationDialogLocationY" value="243" />
+    <option name="translationDialogLocationY" value="147" />
     <option name="translationDialogWidth" value="970" />
     <histories>
+      <item value="быстро" />
+      <item value=",scnhj" />
       <item value="The ratio of actual height to UI design" />
       <item value="что лучше mobx" />
       <item value="что лучше mo" />
@@ -57,8 +59,6 @@
       <item value="kturjt" />
       <item value="k" />
       <item value="сердце" />
-      <item value="cthlwt" />
-      <item value="заложник" />
     </histories>
     <option name="languageScores">
       <map>

@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1717044379394" />
+    <option name="lastTrimTime" value="1717657549067" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogCollapseDictViewer" value="false" />
@@ -9,6 +9,14 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="970" />
     <histories>
+      <item value="Пройдите регистрацию заново с этим {} номером" />
+      <item value="Создайте аккаунт с этим номером" />
+      <item value="Создайте аккаунт c этим номером" />
+      <item value="Создайте аккаунт c 'nbv" />
+      <item value="Создайте аккаунт" />
+      <item value="Cjplfqnt frrfey" />
+      <item value="пройдите регистрацию" />
+      <item value="пройдите регистрацию " />
       <item value="киргизия" />
       <item value="rbhubpbz" />
       <item value="rbhub" />
@@ -51,21 +59,13 @@
       <item value="lightning" />
       <item value="молния" />
       <item value="vjkybz" />
-      <item value="точность" />
-      <item value="njxyjcnm" />
-      <item value="Make sure you always use the transaction object for database operations during a transaction" />
-      <item value="The number of whole milliseconds spanned by this Duration.&#10;The returned value can be greater than 999. For example, a duration of three seconds and 125 milliseconds has 3125 milliseconds." />
-      <item value="выстрелы" />
-      <item value="dscnhtks" />
-      <item value="shoot" />
-      <item value="shoote" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="7" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="MACEDONIAN" value="1" />
-        <entry key="RUSSIAN" value="108" />
+        <entry key="RUSSIAN" value="109" />
         <entry key="UKRAINIAN" value="6" />
       </map>
     </option>

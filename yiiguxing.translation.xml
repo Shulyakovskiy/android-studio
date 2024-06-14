@@ -9,6 +9,9 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="970" />
     <histories>
+      <item value=" Register a subscription to be canceled when the device is disconnected.&#10;  /// This function simplifies cleanup, so you can prevent creating duplicate stream subscriptions.&#10;  ///   - this is an optional convenience function&#10;  ///   - prevents accidentally creating duplicate subscriptions on each reconnection.&#10;  ///   - [next] if true, the the stream will be canceled only on the *next* disconnection.&#10;  ///     This is useful if you setup your subscriptions before you connect.&#10;  ///   - [delayed] Note: This option is only meant for `connectionState` subscriptions.  &#10;  ///     When `true`, we cancel after a small delay. This ensures the `connectionState` &#10;  ///     listener receives the `disconnected` event." />
+      <item value="if true, the the stream will be canceled only on the *next* disconnection.&#10;  ///     This is useful if you setup your subscriptions before you connect" />
+      <item value="this is an optional convenience function&#10;prevents accidentally creating duplicate subscriptions on each reconnection.&#10;next if true, the the stream will be canceled only on the next disconnection. This is useful if you setup your subscriptions before you connect.&#10;delayed Note: This option is only meant for connectionState subscriptions. When true, we cancel after a small delay. This ensures the connectionState listener receives the disconnected event." />
       <item value="withoutResponse: If true, the write is not guaranteed and always returns immediately with success. If false, the write returns error on failure.&#10;allowLongWrite: if set, larger writes &gt; MTU are allowed (up to 512 bytes). This should be used with caution. 1. it can only be used with response 2. the peripheral device must support the 'long write' ble protocol. 3. Interrupted transfers can leave the characteristic in a partially written state 4. If the mtu is small, it is very very slow" />
       <item value="and when first listened to, it re-emits the last value for convenience" />
       <item value="forceIndications Android Only. force indications to be used instead of notifications." />
@@ -56,16 +59,13 @@
       <item value="тренировка" />
       <item value="Executes the specified fn, whenever the dependent observables change. It returns a disposer that can be used to dispose the autorun" />
       <item value="рейтинг" />
-      <item value="rating" />
-      <item value="The default value of an optional parameter must be constant" />
-      <item value="Все стрелки" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="7" />
         <entry key="ENGLISH" value="53" />
         <entry key="MACEDONIAN" value="1" />
-        <entry key="RUSSIAN" value="113" />
+        <entry key="RUSSIAN" value="116" />
         <entry key="UKRAINIAN" value="6" />
       </map>
     </option>

@@ -1,7 +1,7 @@
 <application>
   <component name="DBNavigator.Application.DatabaseDriverManager">
     <known-driver-classes>
-      <library checksum="927069474" path="C:\Users\User\AppData\Roaming\Google\AndroidStudio2023.2\plugins\DBNavigator\lib\ext\bundled-jdbc-sqlite" driver-classes="org.sqlite.JDBC" />
+      <library checksum="1782126054" path="C:\Users\User\AppData\Roaming\Google\AndroidStudio2023.2\plugins\DBNavigator\lib\ext\bundled-jdbc-sqlite" driver-classes="org.sqlite.JDBC" />
     </known-driver-classes>
   </component>
   <component name="DBNavigator.Application.FileTypeService">

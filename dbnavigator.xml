@@ -17,6 +17,7 @@
   <component name="DBNavigator.Application.PluginStatusManager">
     <plugin-statuses>
       <status project="D:/Demo/Flutter/sample_app" dbn="PASSIVE" sql="MISSING" />
+      <status project="D:/Demo/Flutter/STM32-Bootloader/Bootloader_Example/HostApp/MobileApp" dbn="PASSIVE" sql="MISSING" />
       <status project="D:/Demo/Flutter/flutter-rustore-update" dbn="PASSIVE" sql="MISSING" />
       <status project="D:/Demo/Flutter/flutter-camera-practice" dbn="PASSIVE" sql="MISSING" />
       <status project="D:/GIT/Raptor/GIT/secundant-mp/secundant" dbn="PASSIVE" sql="MISSING" />
@@ -32,7 +33,9 @@
       <status project="D:/Demo/Flutter/flutter-blue-sample" dbn="PASSIVE" sql="MISSING" />
       <status project="D:/GIT/Raptor/GIT/sm-litev2/android" dbn="PASSIVE" sql="MISSING" />
       <status project="D:/Demo/Flutter/flutter_reactive_ble_uart_example" dbn="PASSIVE" sql="MISSING" />
+      <status project="D:/Demo/Flutter/STM32-Bootloader" dbn="PASSIVE" sql="MISSING" />
       <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
+      <status project="D:/Demo/Flutter/STM32-Bootloader/Bootloader_Example/HostApp/MobileApp/flashy" dbn="PASSIVE" sql="MISSING" />
       <status project="D:/GIT/Raptor/GIT/Demo/Flutter/objectbox_browser" dbn="PASSIVE" sql="MISSING" />
     </plugin-statuses>
   </component>

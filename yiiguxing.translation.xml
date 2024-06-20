@@ -9,6 +9,7 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="970" />
     <histories>
+      <item value="he argument type 'Uint8List (where Uint8List is defined in C:\Users\User\flutter\bin\cache\pkg\sky_engine\lib\_internal\vm\lib\typed_data_patch.dart)' can't be assigned to the parameter type 'Uint8List (where Uint8List is defined in C:\Users\User\flutter\bin\cache\pkg\sky_engine\lib\typed_data\typed_data.dart)'. (Documentation) &#10;" />
       <item value="Повторная отправка" />
       <item value="Повторная отправка через {} сек" />
       <item value="This constructor creates a growable list when growable is true; otherwise, it returns a fixed-length list." />
@@ -58,14 +59,13 @@
       <item value="что лучше " />
       <item value="AVAILABILITY" />
       <item value="AILABILITY" />
-      <item value="htрежим" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="7" />
         <entry key="ENGLISH" value="60" />
         <entry key="MACEDONIAN" value="1" />
-        <entry key="RUSSIAN" value="125" />
+        <entry key="RUSSIAN" value="126" />
         <entry key="UKRAINIAN" value="6" />
       </map>
     </option>

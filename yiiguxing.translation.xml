@@ -9,6 +9,8 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="970" />
     <histories>
+      <item value="Повторная отправка" />
+      <item value="Повторная отправка через {} сек" />
       <item value="This constructor creates a growable list when growable is true; otherwise, it returns a fixed-length list." />
       <item value="Set the fit size (Find your UI design, look at the dimensions of the device screen and fill it in,unit in dp" />
       <item value="a sms sent in, {}enter the code from the message" />
@@ -57,15 +59,13 @@
       <item value="AVAILABILITY" />
       <item value="AILABILITY" />
       <item value="htрежим" />
-      <item value="ht;bv" />
-      <item value="If you see this consistently then it is recommended that you enable the polling file watcher with " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="7" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="ENGLISH" value="60" />
         <entry key="MACEDONIAN" value="1" />
-        <entry key="RUSSIAN" value="123" />
+        <entry key="RUSSIAN" value="125" />
         <entry key="UKRAINIAN" value="6" />
       </map>
     </option>

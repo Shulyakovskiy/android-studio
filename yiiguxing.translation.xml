@@ -1,14 +1,15 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1718801123032" />
+    <option name="lastTrimTime" value="1719996855558" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="543" />
-    <option name="translationDialogLocationX" value="238" />
+    <option name="translationDialogLocationX" value="411" />
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="1096" />
     <histories>
+      <item value="Whether any ScrollPosition objects have attached themselves to the ScrollController using the attach method.&#10;If this is false, then members that interact with the ScrollPosition, such as position, offset, animateTo, and jumpTo, must not be called" />
       <item value="queue If true, this disconnect request will be executed after all other operations complete. If false, this disconnect request will be executed right now, i.e. skipping to the front of the fbp operation queue, which is useful to cancel an in-progress connection attempt" />
       <item value="  /// Cancels connection to the Bluetooth Device&#10;  ///   - [queue] If true, this disconnect request will be executed after all other operations complete.&#10;  ///     If false, this disconnect request will be executed right now, i.e. skipping to the front&#10;  ///     of the fbp operation queue, which is useful to cancel an in-progress connection attempt." />
       <item value=" At least one view of the application is visible, but none have input&#10;  /// focus. The application is otherwise running normally.&#10;  ///&#10;  /// On non-web desktop platforms, this corresponds to an application that is&#10;  /// not in the foreground, but still has visible windows.&#10;  ///&#10;  /// On the web, this corresponds to an application that is running in a&#10;  /// window or tab that does not have input focus.&#10;  ///&#10;  /// On iOS and macOS, this state corresponds to the Flutter host view running in the&#10;  /// foreground inactive state. Apps transition to this state when in a phone&#10;  /// call, when responding to a TouchID request, when entering the app switcher&#10;  /// or the control center, or when the UIViewController hosting the Flutter&#10;  /// app is transitioning.&#10;  ///&#10;  /// On Android, this corresponds to the Flutter host view running in Android's&#10;  /// paused state (i.e.&#10;  /// [`Activity.onPause`](https://developer.android.com/reference/android/app/Activity#onPause())&#10;  /// has been called), or in Android's &quot;resumed&quot; state (i.e.&#10;  /// [`Activity.onResume`](https://developer.android.com/reference/android/app/Activity#onResume())&#10;  /// has been called) but does not have window focus. Examples of when apps&#10;  /// transition to this state include when the app is partially obscured or&#10;  /// another activity is focused, a app running in a split screen that isn't&#10;  /// the current app, an app interrupted by a phone call, a picture-in-picture&#10;  /// app, a system dialog, another view. It will also be inactive when the&#10;  /// notification window shade is down, or the application switcher is visible.&#10;  ///&#10;  /// On Android and iOS, apps in this state should assume that they may be&#10;  /// [hidden] and [paused] at any time." />
@@ -58,14 +59,13 @@
       <item value=",scnhj" />
       <item value="The ratio of actual height to UI design" />
       <item value="что лучше mobx" />
-      <item value="что лучше mo" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="7" />
         <entry key="ENGLISH" value="60" />
         <entry key="MACEDONIAN" value="1" />
-        <entry key="RUSSIAN" value="129" />
+        <entry key="RUSSIAN" value="130" />
         <entry key="UKRAINIAN" value="6" />
       </map>
     </option>

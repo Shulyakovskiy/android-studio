@@ -9,6 +9,10 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="1096" />
     <histories>
+      <item value="батарея" />
+      <item value=",fnfhtz" />
+      <item value="батареня" />
+      <item value=",fnfhtyz" />
       <item value="Whether any ScrollPosition objects have attached themselves to the ScrollController using the attach method.&#10;If this is false, then members that interact with the ScrollPosition, such as position, offset, animateTo, and jumpTo, must not be called" />
       <item value="queue If true, this disconnect request will be executed after all other operations complete. If false, this disconnect request will be executed right now, i.e. skipping to the front of the fbp operation queue, which is useful to cancel an in-progress connection attempt" />
       <item value="  /// Cancels connection to the Bluetooth Device&#10;  ///   - [queue] If true, this disconnect request will be executed after all other operations complete.&#10;  ///     If false, this disconnect request will be executed right now, i.e. skipping to the front&#10;  ///     of the fbp operation queue, which is useful to cancel an in-progress connection attempt." />
@@ -55,10 +59,6 @@
       <item value="crktbdftn" />
       <item value="поправка" />
       <item value="gjghfdrf" />
-      <item value="быстро" />
-      <item value=",scnhj" />
-      <item value="The ratio of actual height to UI design" />
-      <item value="что лучше mobx" />
     </histories>
     <option name="languageScores">
       <map>

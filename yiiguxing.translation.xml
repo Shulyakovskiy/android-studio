@@ -1,14 +1,15 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1720609500702" />
+    <option name="lastTrimTime" value="1721041556299" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="543" />
     <option name="translationDialogLocationX" value="411" />
-    <option name="translationDialogLocationY" value="147" />
+    <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="1096" />
     <histories>
+      <item value="Flutter async : Beginner friendly guide for heavy lifting operations" />
       <item value="hassle" />
       <item value=" Looking up a deactivated widget's ancestor is unsafe.&#10;[        ] I/flutter (26713): │ At this point the state of the widget's element tree is no longer stable." />
       <item value=" Message: The connection errored: Connection refused This indicates an error which most likely cannot be solved by the library." />
@@ -58,14 +59,13 @@
       <item value="казахстан" />
       <item value="rfpf[cnfy" />
       <item value="rfpf" />
-      <item value="Ошибка регистрации, попробуйте еще раз" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="7" />
         <entry key="ENGLISH" value="61" />
         <entry key="MACEDONIAN" value="1" />
-        <entry key="RUSSIAN" value="134" />
+        <entry key="RUSSIAN" value="135" />
         <entry key="UKRAINIAN" value="6" />
       </map>
     </option>

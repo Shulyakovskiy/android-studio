@@ -5,10 +5,12 @@
   <component name="Translation.States">
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="543" />
-    <option name="translationDialogLocationX" value="411" />
-    <option name="translationDialogLocationY" value="243" />
+    <option name="translationDialogLocationX" value="4251" />
+    <option name="translationDialogLocationY" value="265" />
     <option name="translationDialogWidth" value="1096" />
     <histories>
+      <item value="калибровка" />
+      <item value="rfkb,hjdrf" />
       <item value="акустика" />
       <item value="frecnbrf" />
       <item value="fr" />
@@ -57,8 +59,6 @@
       <item value="пройдите регистрацию" />
       <item value="пройдите регистрацию " />
       <item value="киргизия" />
-      <item value="rbhubpbz" />
-      <item value="rbhub" />
     </histories>
     <option name="languageScores">
       <map>

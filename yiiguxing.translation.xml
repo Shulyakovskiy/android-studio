@@ -5,10 +5,12 @@
   <component name="Translation.States">
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="543" />
-    <option name="translationDialogLocationX" value="4251" />
-    <option name="translationDialogLocationY" value="265" />
+    <option name="translationDialogLocationX" value="411" />
+    <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="1096" />
     <histories>
+      <item value="processing" />
+      <item value="deferred" />
       <item value="калибровка" />
       <item value="rfkb,hjdrf" />
       <item value="акустика" />
@@ -57,15 +59,13 @@
       <item value="Создайте аккаунт" />
       <item value="Cjplfqnt frrfey" />
       <item value="пройдите регистрацию" />
-      <item value="пройдите регистрацию " />
-      <item value="киргизия" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="7" />
         <entry key="ENGLISH" value="61" />
         <entry key="MACEDONIAN" value="1" />
-        <entry key="RUSSIAN" value="137" />
+        <entry key="RUSSIAN" value="139" />
         <entry key="UKRAINIAN" value="6" />
       </map>
     </option>

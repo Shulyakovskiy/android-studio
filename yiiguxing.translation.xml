@@ -9,6 +9,11 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="1096" />
     <histories>
+      <item value="коэффици" />
+      <item value="коэфици" />
+      <item value="rj'abwb" />
+      <item value="rj'" />
+      <item value="r" />
       <item value="рамка" />
       <item value="hfvrf" />
       <item value="processing" />
@@ -54,11 +59,6 @@
       <item value="мигание" />
       <item value="vbufybt" />
       <item value="Whether this text field should focus itself if nothing else is already focused.&#10;If true, the keyboard will open as soon as this text field obtains focus. Otherwise, the keyboard is only shown after the user taps the text field" />
-      <item value="Пройдите регистрацию заново с этим {} номером" />
-      <item value="Создайте аккаунт с этим номером" />
-      <item value="Создайте аккаунт c этим номером" />
-      <item value="Создайте аккаунт c 'nbv" />
-      <item value="Создайте аккаунт" />
     </histories>
     <option name="languageScores">
       <map>

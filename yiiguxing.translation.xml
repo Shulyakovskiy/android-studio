@@ -9,6 +9,8 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="1096" />
     <histories>
+      <item value="прошивка" />
+      <item value="ghjibdrf" />
       <item value="Frame time is 0.017141 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase." />
       <item value="коэффици" />
       <item value="коэфици" />
@@ -26,8 +28,6 @@
       <item value="fr" />
       <item value="Bad state: GetIt: Object/factory with type Talker is not registered inside GetIt. &#10;(Did you accidentally do GetIt sl=GetIt.instance(); instead of GetIt sl=GetIt.instance;&#10;Did you forget to register it?)" />
       <item value="Bad state: GetIt: Object/factory with type Talker is not registered inside GetIt. &#10;(Did you accidentally do GetIt sl=GetIt.instance(); instead of GetIt sl=GetIt.instance;&#10;Did you forget to register it?)&#10;" />
-      <item value="прошивка" />
-      <item value="ghjibdrf" />
       <item value="Flutter async : Beginner friendly guide for heavy lifting operations" />
       <item value="hassle" />
       <item value=" Looking up a deactivated widget's ancestor is unsafe.&#10;[        ] I/flutter (26713): │ At this point the state of the widget's element tree is no longer stable." />

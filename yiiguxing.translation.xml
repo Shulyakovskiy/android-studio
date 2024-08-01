@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1721716358933" />
+    <option name="lastTrimTime" value="1722481828184" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogCollapseDictViewer" value="false" />
@@ -9,6 +9,7 @@
     <option name="translationDialogLocationY" value="243" />
     <option name="translationDialogWidth" value="1096" />
     <histories>
+      <item value=" if set, larger writes &gt; MTU are allowed (up to 512 bytes). This should be used with caution. 1. it can only be used with response 2. the peripheral device must support the 'long write' ble protocol. 3. Interrupted transfers can leave the characteristic in a partially written state 4. If the mtu is small, it is very very slow." />
       <item value="data target written error: RangeError (end): Invalid value: Not in inclusive range" />
       <item value="прошивка" />
       <item value="ghjibdrf" />
@@ -58,14 +59,13 @@
       <item value="withoutResponse: If true, the write is not guaranteed and always returns immediately with success. If false, the write returns error on failure.&#10;allowLongWrite: if set, larger writes &gt; MTU are allowed (up to 512 bytes). This should be used with caution. 1. it can only be used with response 2. the peripheral device must support the 'long write' ble protocol. 3. Interrupted transfers can leave the characteristic in a partially written state 4. If the mtu is small, it is very very slow" />
       <item value="and when first listened to, it re-emits the last value for convenience" />
       <item value="forceIndications Android Only. force indications to be used instead of notifications." />
-      <item value="мигание" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="7" />
         <entry key="ENGLISH" value="61" />
         <entry key="MACEDONIAN" value="1" />
-        <entry key="RUSSIAN" value="141" />
+        <entry key="RUSSIAN" value="142" />
         <entry key="UKRAINIAN" value="6" />
       </map>
     </option>
